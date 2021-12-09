@@ -26,7 +26,7 @@ CREATE TABLE Airport_Imp (
     source VARCHAR(255)
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/airports.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/airports.csv'
 INTO TABLE Airport_Imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -68,7 +68,7 @@ CREATE TABLE AIRLINE_Imp (
     active VARCHAR(1)
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/airlines.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/airlines.csv'
 INTO TABLE AIRLINE_Imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -97,7 +97,7 @@ CREATE TABLE lowcost_Imp (
     lowcost VARCHAR(255)
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/lowcost.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/lowcost.csv'
 INTO TABLE lowcost_Imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -115,7 +115,7 @@ DROP TABLE IF EXISTS lowcost_Imp;
 
 
 /********** Import AirportAIRLINE **************/
-/*LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/AirportAIRLINE.csv'
+/*LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/AirportAIRLINE.csv'
 INTO TABLE AirportAIRLINE
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -131,7 +131,7 @@ CREATE TABLE pt_Imp (
     id SERIAL
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/plane_types.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/plane_types.csv'
 INTO TABLE pt_Imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -150,7 +150,7 @@ CREATE TABLE pt_Imp2 (
     petrol_capacity int
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/plane_types_data.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/plane_types_data.csv'
 INTO TABLE pt_Imp2
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -174,7 +174,7 @@ CREATE TABLE imp (
     rent_AIRLINEID BIGINT UNSIGNED DEFAULT NULL
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/plane_def.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/plane_def.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -205,7 +205,7 @@ CREATE TABLE pt_Imp3 (
     PLANETYPEID BIGINT UNSIGNED NOT NULL DEFAULT 0
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/PlanePlaneType.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/PlanePlaneType.csv'
 INTO TABLE pt_Imp3
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -242,7 +242,7 @@ CREATE TABLE imp (
     grade float
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/mechanic.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/mechanic.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -286,7 +286,7 @@ CREATE TABLE imp (
     date DATE
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/maintenance.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/maintenance.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -309,7 +309,7 @@ AND YEAR(i.date) <= p.retirement_year;
 
 
 /********** Import Piece **************/
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/piece.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/piece.csv'
 INTO TABLE PIECE
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -317,7 +317,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 /********** Import PieceMaintenance **************/
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/MaintenancePiece.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/MaintenancePiece.csv'
 INTO TABLE PieceMaintenance
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -333,7 +333,7 @@ IGNORE 1 ROWS;
 /********** Import Route **************/
 
 -- Insert Route
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/ROUTE_def.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/ROUTE_def.csv'
 INTO TABLE ROUTE
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -341,7 +341,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Insert AIRLINERoute
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/RouteAirline_def.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/RouteAirline_def.csv'
 INTO TABLE RouteAirline
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -366,7 +366,7 @@ CREATE TABLE imp (
 	creditCard BIGINT UNSIGNED NOT NULL DEFAULT 0
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/passenger.csv'
+LOAD DATA LOCAL INFILE 'LSAIR/csv_S2/passenger.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -405,7 +405,7 @@ CREATE TABLE imp (
 
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/pilot.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/pilot.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -446,7 +446,7 @@ CREATE TABLE imp (
     copilotID BIGINT UNSIGNED NOT NULL DEFAULT 0
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/copilot.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/copilot.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -484,7 +484,7 @@ CREATE TABLE imp (
     years_working INT
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/flight_attendant.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/flight_attendant.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -520,7 +520,7 @@ SET retirement_date = NULL WHERE MOD(e.employeeID,6) = 0 AND e.employeeID = fa.f
 
 
 /********** Import Status **************/
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/status.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/status.csv'
 INTO TABLE STATUS
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -537,7 +537,7 @@ CREATE TABLE imp (
     statusID BIGINT UNSIGNED NOT NULL DEFAULT 0
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/flight.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/flight.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -621,7 +621,7 @@ CREATE TABLE imp (
     flightAttendantID BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/Flight_FlightAttendant.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/Flight_FlightAttendant.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -661,7 +661,7 @@ CREATE TABLE imp (
     passengerID bigint unsigned
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/flightTickets.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/flightTickets.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -716,7 +716,7 @@ CREATE TABLE imp2 (
     seat char
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/seat.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/seat.csv'
 INTO TABLE imp2
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -755,7 +755,7 @@ CREATE TABLE imp (
     max_weight int
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/luggage_handler.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/luggage_handler.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -810,7 +810,7 @@ CREATE TABLE imp (
     countryID BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/company.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/company.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -831,7 +831,7 @@ CREATE TABLE imp (
     close_hour time
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/waitingArea.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/waitingArea.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -890,7 +890,7 @@ CREATE TABLE imp (
     score float
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/restaurant.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/restaurant.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -926,7 +926,7 @@ CREATE TABLE imp (
     minimum_age int
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/vip_room.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/vip_room.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -967,7 +967,7 @@ CREATE TABLE imp (
     fc5 BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/product.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/product.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -989,7 +989,7 @@ CREATE TABLE imp (
     productID BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/ProductStore_def.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/ProductStore_def.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1017,7 +1017,7 @@ CREATE TABLE imp (
     fc5 BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/product.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/product.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1082,7 +1082,7 @@ CREATE TABLE imp (
     type VARCHAR(255)
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/clothes.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/clothes.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1118,7 +1118,7 @@ CREATE TABLE imp (
     waitingAreaID BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/shopkeeper.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/shopkeeper.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1175,7 +1175,7 @@ CREATE TABLE imp (
     id SERIAL
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/luggage.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/luggage.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1232,7 +1232,7 @@ CREATE TABLE imp (
     flightID BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/FlightLuggageHandler.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/FlightLuggageHandler.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1263,7 +1263,7 @@ CREATE TABLE imp (
     amount int
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/claims.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/claims.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1346,7 +1346,7 @@ CREATE TABLE imp (
     frequency int
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/languages.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/languages.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -1402,7 +1402,7 @@ CREATE TABLE imp (
     personID BIGINT UNSIGNED
 );
 
-LOAD DATA LOCAL INFILE '/home/cyprien/Subjects 2020-2021/DB/s2_project/LSAIR/csv_S2/languagePerson.csv'
+LOAD DATA LOCAL INFILE '/LSAIR/csv_S2/languagePerson.csv'
 INTO TABLE imp
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
