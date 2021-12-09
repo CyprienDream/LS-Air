@@ -14,4 +14,4 @@ This projects is structured in several parts:
 - Graph Database creation: Cypher creation and import scripts for each case study
 - Data analysis and retrieving: Cypher queries for each case study
 
-<img src="https://github.com/CyprienDream/LS-Air/blob/master/schema.svg">
+<img src="">
