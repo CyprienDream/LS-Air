@@ -1,3 +1,7 @@
+-- This event uses a cursor to fetch the desired data. The cursor is set for a query that selects
+-- the food elements who’s expiry dates are smaller than the current date. The event is scheduled to
+-- repeat every day.
+
 DROP TABLE IF EXISTS ExpiredProducts;
 CREATE TABLE ExpiredProducts(
 	id int,
@@ -7,7 +11,7 @@ CREATE TABLE ExpiredProducts(
 
 DELIMITER $$
 DROP EVENT IF EXISTS event1 $$
-CREATE EVENT event1 
+CREATE EVENT event1
 ON SCHEDULE EVERY 1 DAY
 ON COMPLETION PRESERVE
 DO
@@ -15,25 +19,25 @@ BEGIN
 	DECLARE a int;
     DECLARE b date;
     DECLARE done int DEFAULT FALSE;
-    
+
 	DECLARE exp CURSOR FOR SELECT foodID, expiration_date FROM Food AS f WHERE f.expiration_date < current_date();
-	
+
     DECLARE CONTINUE HANDLER FOR NOT FOUND SET done = TRUE;
-    
+
     OPEN exp;
-    
+
     _loop: LOOP
 		FETCH exp INTO a, b;
-        
+
         IF done THEN
 			LEAVE _loop;
 		END IF;
-        
+
         INSERT INTO ExpiredProducts
         SELECT a, b, current_date();
-        
+
     END LOOP;
-    
+
     CLOSE exp;
 END $$
 DELIMITER ;
