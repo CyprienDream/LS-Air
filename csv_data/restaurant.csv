@@ -1,0 +1,3001 @@
+id,type,score
+1,Fast Food,3.89
+2,Fast Food,4.94
+3,Fast Food,4.52
+4,Buffet,0.41
+5,Mexican,1.72
+6,Fast Food,7.55
+7,Mexican,5.36
+8,Fast Food,7.71
+9,Sushi,7.19
+10,Mexican,2.66
+11,Fast Food,8.39
+12,Mexican,1.86
+13,Fast Food,0.78
+14,Fast Food,9.08
+15,Buffet,9.15
+16,Buffet,1.92
+17,Asian,0.08
+18,Italian,1.7
+19,Fast Food,0.02
+20,Italian,5.12
+21,Fast Food,0.83
+22,Sushi,7.53
+23,Asian,5.05
+24,Fast Food,5.54
+25,Mexican,5.27
+26,Fast Food,9.56
+27,Mediterranean,0.66
+28,Mediterranean,1.8
+29,Italian,9.48
+30,Fast Food,5.25
+31,Fast Food,6.14
+32,Fast Food,0.74
+33,Mediterranean,2.76
+34,Mediterranean,2.85
+35,Italian,3.35
+36,Mediterranean,5.86
+37,Buffet,3.38
+38,Fast Food,0.39
+39,Fast Food,5.34
+40,Italian,3.17
+41,Mediterranean,1.56
+42,Mediterranean,7.35
+43,Italian,0.38
+44,Mediterranean,3.54
+45,Mexican,3.97
+46,Fast Food,8.48
+47,Buffet,7.98
+48,Fast Food,9.65
+49,Mediterranean,0.92
+50,Buffet,8.54
+51,Fast Food,0.94
+52,Mediterranean,0.07
+53,Fast Food,8.25
+54,Fast Food,5.23
+55,Asian,3.72
+56,Fast Food,3.15
+57,Buffet,3.85
+58,Fast Food,0.6
+59,Mexican,8.81
+60,Fast Food,3.34
+61,Sushi,3.51
+62,Fast Food,4.95
+63,Fast Food,3.05
+64,Fast Food,1.28
+65,Mexican,6.99
+66,Sushi,7.61
+67,Sushi,3.2
+68,Italian,9.91
+69,Mexican,8.85
+70,Mexican,9.27
+71,Mexican,2.22
+72,Asian,9.36
+73,Buffet,0.96
+74,Asian,7.66
+75,Mediterranean,9.19
+76,Fast Food,1.6
+77,Sushi,4.18
+78,Sushi,5.77
+79,Fast Food,6.13
+80,Fast Food,5.21
+81,Sushi,3.69
+82,Mediterranean,8.71
+83,Fast Food,5.52
+84,Fast Food,5.87
+85,Italian,7.23
+86,Fast Food,9.01
+87,Italian,6.78
+88,Italian,4.66
+89,Fast Food,5.18
+90,Buffet,6.39
+91,Sushi,1.01
+92,Mexican,2.99
+93,Italian,5.96
+94,Fast Food,6.99
+95,Fast Food,9.07
+96,Fast Food,7.57
+97,Mediterranean,0.11
+98,Buffet,5.69
+99,Sushi,8.84
+100,Buffet,9.09
+101,Sushi,1.87
+102,Sushi,4.0
+103,Mexican,1.7
+104,Sushi,4.82
+105,Asian,1.97
+106,Sushi,4.39
+107,Italian,9.91
+108,Fast Food,3.02
+109,Fast Food,3.28
+110,Fast Food,3.72
+111,Mediterranean,4.77
+112,Mexican,3.09
+113,Italian,8.33
+114,Sushi,9.88
+115,Fast Food,7.5
+116,Buffet,5.55
+117,Buffet,5.59
+118,Buffet,1.51
+119,Fast Food,2.09
+120,Asian,9.12
+121,Fast Food,7.98
+122,Fast Food,3.85
+123,Mediterranean,9.64
+124,Mexican,9.58
+125,Sushi,6.39
+126,Asian,6.15
+127,Mexican,2.33
+128,Buffet,3.01
+129,Mexican,7.82
+130,Buffet,7.68
+131,Mexican,8.95
+132,Fast Food,9.91
+133,Sushi,8.64
+134,Mexican,5.54
+135,Asian,9.74
+136,Buffet,2.7
+137,Asian,7.31
+138,Fast Food,1.58
+139,Italian,8.62
+140,Fast Food,1.37
+141,Asian,6.6
+142,Fast Food,6.27
+143,Fast Food,0.55
+144,Italian,1.5
+145,Asian,4.87
+146,Mediterranean,9.71
+147,Fast Food,4.21
+148,Italian,4.03
+149,Asian,7.99
+150,Asian,9.83
+151,Sushi,7.23
+152,Mediterranean,1.39
+153,Asian,7.8
+154,Fast Food,1.13
+155,Mexican,2.21
+156,Sushi,2.32
+157,Fast Food,5.22
+158,Mexican,9.87
+159,Fast Food,6.45
+160,Fast Food,3.7
+161,Buffet,6.63
+162,Fast Food,5.31
+163,Sushi,7.38
+164,Fast Food,0.38
+165,Fast Food,8.83
+166,Fast Food,8.79
+167,Italian,1.39
+168,Italian,9.54
+169,Mediterranean,9.43
+170,Fast Food,7.63
+171,Buffet,7.65
+172,Sushi,6.89
+173,Mexican,8.8
+174,Asian,7.26
+175,Asian,4.78
+176,Fast Food,3.67
+177,Mexican,2.87
+178,Buffet,2.84
+179,Buffet,7.42
+180,Fast Food,9.57
+181,Italian,1.66
+182,Sushi,9.45
+183,Fast Food,1.26
+184,Asian,5.15
+185,Sushi,8.8
+186,Buffet,0.75
+187,Sushi,9.76
+188,Sushi,6.76
+189,Buffet,8.79
+190,Asian,2.19
+191,Mediterranean,6.55
+192,Buffet,0.64
+193,Buffet,5.26
+194,Fast Food,7.18
+195,Asian,7.09
+196,Sushi,5.21
+197,Fast Food,1.64
+198,Italian,9.2
+199,Buffet,4.31
+200,Buffet,5.27
+201,Sushi,5.1
+202,Italian,3.42
+203,Buffet,5.2
+204,Mexican,3.32
+205,Italian,9.57
+206,Asian,9.37
+207,Mediterranean,0.26
+208,Mexican,9.53
+209,Mexican,0.45
+210,Fast Food,6.97
+211,Italian,6.0
+212,Fast Food,4.43
+213,Italian,5.81
+214,Asian,1.72
+215,Fast Food,6.84
+216,Asian,2.18
+217,Fast Food,5.66
+218,Italian,2.99
+219,Italian,1.3
+220,Mediterranean,9.45
+221,Mediterranean,9.24
+222,Mexican,5.61
+223,Italian,4.95
+224,Sushi,9.21
+225,Asian,0.98
+226,Italian,1.86
+227,Fast Food,3.09
+228,Mediterranean,4.3
+229,Mexican,8.28
+230,Sushi,5.36
+231,Sushi,9.85
+232,Fast Food,10.0
+233,Mexican,5.42
+234,Sushi,3.96
+235,Italian,1.22
+236,Sushi,0.24
+237,Italian,4.16
+238,Buffet,4.11
+239,Mexican,7.24
+240,Italian,3.72
+241,Asian,9.75
+242,Fast Food,5.88
+243,Asian,6.33
+244,Fast Food,5.32
+245,Asian,7.51
+246,Fast Food,7.21
+247,Italian,5.39
+248,Italian,9.27
+249,Fast Food,1.51
+250,Sushi,4.14
+251,Buffet,7.68
+252,Sushi,6.75
+253,Fast Food,1.9
+254,Fast Food,0.7
+255,Fast Food,9.8
+256,Fast Food,4.39
+257,Sushi,8.98
+258,Mediterranean,0.99
+259,Fast Food,1.11
+260,Fast Food,3.41
+261,Sushi,9.12
+262,Fast Food,6.43
+263,Sushi,0.87
+264,Sushi,4.44
+265,Buffet,4.27
+266,Fast Food,9.39
+267,Fast Food,3.77
+268,Fast Food,1.01
+269,Buffet,0.45
+270,Fast Food,0.29
+271,Mediterranean,6.89
+272,Mediterranean,8.58
+273,Fast Food,9.55
+274,Mediterranean,0.2
+275,Fast Food,6.24
+276,Italian,4.16
+277,Mediterranean,4.69
+278,Fast Food,7.48
+279,Fast Food,2.55
+280,Fast Food,5.07
+281,Mexican,2.03
+282,Italian,0.26
+283,Sushi,8.6
+284,Sushi,4.4
+285,Mexican,9.23
+286,Mediterranean,9.6
+287,Fast Food,1.41
+288,Buffet,7.86
+289,Fast Food,5.66
+290,Mediterranean,1.04
+291,Asian,7.69
+292,Italian,0.24
+293,Fast Food,7.08
+294,Mediterranean,9.0
+295,Sushi,8.05
+296,Sushi,5.67
+297,Sushi,3.12
+298,Italian,9.9
+299,Mediterranean,1.63
+300,Mediterranean,7.95
+301,Asian,9.16
+302,Fast Food,8.65
+303,Fast Food,7.02
+304,Italian,3.3
+305,Mexican,4.04
+306,Fast Food,8.41
+307,Fast Food,0.28
+308,Mediterranean,8.57
+309,Asian,2.04
+310,Sushi,3.02
+311,Mexican,5.58
+312,Asian,6.08
+313,Mediterranean,0.6
+314,Mexican,6.19
+315,Asian,8.5
+316,Fast Food,2.69
+317,Italian,0.15
+318,Asian,3.72
+319,Mexican,8.2
+320,Mediterranean,6.64
+321,Buffet,5.62
+322,Fast Food,4.31
+323,Asian,5.13
+324,Sushi,6.37
+325,Italian,2.3
+326,Sushi,1.77
+327,Mexican,5.96
+328,Fast Food,1.37
+329,Mediterranean,8.7
+330,Buffet,8.89
+331,Buffet,8.12
+332,Buffet,3.54
+333,Fast Food,4.54
+334,Asian,6.99
+335,Asian,2.33
+336,Fast Food,5.63
+337,Italian,2.06
+338,Fast Food,3.05
+339,Fast Food,3.03
+340,Asian,8.93
+341,Italian,5.76
+342,Mediterranean,9.3
+343,Asian,8.31
+344,Fast Food,4.05
+345,Italian,8.91
+346,Italian,8.33
+347,Asian,6.48
+348,Buffet,7.95
+349,Asian,5.79
+350,Fast Food,9.65
+351,Fast Food,3.9
+352,Fast Food,5.25
+353,Fast Food,4.34
+354,Buffet,0.66
+355,Fast Food,2.16
+356,Fast Food,5.12
+357,Asian,4.29
+358,Mediterranean,3.6
+359,Italian,5.64
+360,Mediterranean,9.08
+361,Asian,2.46
+362,Fast Food,2.18
+363,Fast Food,5.33
+364,Mediterranean,6.77
+365,Fast Food,8.22
+366,Mexican,3.96
+367,Mexican,9.31
+368,Fast Food,0.67
+369,Asian,8.7
+370,Mediterranean,6.14
+371,Fast Food,3.75
+372,Sushi,9.41
+373,Italian,8.65
+374,Buffet,7.67
+375,Fast Food,1.96
+376,Italian,3.7
+377,Asian,6.43
+378,Italian,5.98
+379,Fast Food,4.36
+380,Fast Food,4.83
+381,Mediterranean,6.22
+382,Fast Food,1.45
+383,Sushi,2.22
+384,Fast Food,9.7
+385,Mexican,3.96
+386,Mexican,6.5
+387,Fast Food,5.27
+388,Fast Food,2.61
+389,Asian,0.7
+390,Buffet,3.23
+391,Fast Food,6.35
+392,Fast Food,5.39
+393,Buffet,6.31
+394,Italian,9.57
+395,Sushi,6.32
+396,Fast Food,9.56
+397,Buffet,8.82
+398,Buffet,4.29
+399,Italian,6.94
+400,Mediterranean,3.79
+401,Italian,7.82
+402,Mediterranean,8.13
+403,Fast Food,1.12
+404,Asian,5.35
+405,Asian,2.71
+406,Italian,6.37
+407,Fast Food,4.25
+408,Mexican,7.16
+409,Mediterranean,9.6
+410,Fast Food,2.38
+411,Mediterranean,1.42
+412,Italian,0.34
+413,Sushi,7.77
+414,Sushi,0.36
+415,Buffet,6.73
+416,Mexican,7.5
+417,Fast Food,4.36
+418,Fast Food,1.54
+419,Fast Food,0.11
+420,Fast Food,6.46
+421,Mediterranean,8.29
+422,Italian,3.06
+423,Mediterranean,7.25
+424,Mediterranean,1.77
+425,Fast Food,9.96
+426,Buffet,6.83
+427,Mexican,0.35
+428,Sushi,5.33
+429,Fast Food,2.16
+430,Mediterranean,4.48
+431,Italian,9.87
+432,Fast Food,2.92
+433,Sushi,3.7
+434,Mexican,7.07
+435,Mediterranean,0.79
+436,Sushi,0.91
+437,Buffet,8.78
+438,Buffet,2.08
+439,Fast Food,6.29
+440,Italian,7.45
+441,Italian,8.08
+442,Buffet,9.28
+443,Fast Food,2.15
+444,Mediterranean,4.98
+445,Mexican,5.59
+446,Mediterranean,2.23
+447,Sushi,7.92
+448,Buffet,7.32
+449,Mexican,9.42
+450,Fast Food,4.76
+451,Asian,2.56
+452,Asian,0.06
+453,Mediterranean,2.42
+454,Buffet,1.77
+455,Fast Food,8.3
+456,Mediterranean,0.8
+457,Mexican,1.64
+458,Buffet,1.63
+459,Italian,4.18
+460,Asian,5.84
+461,Asian,9.28
+462,Italian,0.5
+463,Sushi,4.56
+464,Mexican,8.08
+465,Fast Food,3.92
+466,Fast Food,5.65
+467,Asian,9.91
+468,Mediterranean,5.53
+469,Fast Food,9.11
+470,Fast Food,3.74
+471,Mexican,3.85
+472,Mexican,0.62
+473,Mediterranean,8.15
+474,Mexican,8.76
+475,Asian,4.39
+476,Mexican,2.38
+477,Asian,8.81
+478,Mexican,6.4
+479,Italian,2.31
+480,Buffet,1.55
+481,Fast Food,9.69
+482,Mexican,3.6
+483,Sushi,7.39
+484,Mediterranean,3.27
+485,Sushi,5.37
+486,Fast Food,4.69
+487,Sushi,1.81
+488,Mediterranean,0.25
+489,Fast Food,7.3
+490,Italian,6.58
+491,Fast Food,2.54
+492,Fast Food,1.38
+493,Fast Food,9.96
+494,Asian,4.76
+495,Fast Food,6.4
+496,Buffet,4.18
+497,Mediterranean,1.55
+498,Italian,1.54
+499,Fast Food,1.57
+500,Buffet,2.83
+501,Italian,6.46
+502,Mexican,7.23
+503,Mediterranean,1.5
+504,Italian,1.04
+505,Sushi,6.93
+506,Buffet,2.41
+507,Italian,0.92
+508,Mexican,9.61
+509,Mexican,3.29
+510,Fast Food,7.61
+511,Fast Food,5.61
+512,Mediterranean,5.93
+513,Buffet,4.06
+514,Buffet,6.13
+515,Fast Food,1.42
+516,Fast Food,4.16
+517,Asian,0.92
+518,Mediterranean,9.26
+519,Sushi,4.75
+520,Italian,0.69
+521,Buffet,3.52
+522,Asian,8.8
+523,Fast Food,7.66
+524,Sushi,5.27
+525,Sushi,3.42
+526,Asian,6.72
+527,Sushi,6.39
+528,Buffet,5.45
+529,Mexican,3.5
+530,Fast Food,2.71
+531,Asian,5.68
+532,Mexican,9.98
+533,Sushi,1.47
+534,Buffet,4.67
+535,Buffet,1.53
+536,Mexican,6.79
+537,Buffet,3.89
+538,Mexican,9.61
+539,Mediterranean,0.52
+540,Fast Food,0.27
+541,Buffet,1.59
+542,Italian,3.31
+543,Buffet,1.62
+544,Fast Food,2.91
+545,Fast Food,8.26
+546,Fast Food,1.96
+547,Fast Food,4.43
+548,Mediterranean,4.87
+549,Sushi,3.05
+550,Sushi,5.19
+551,Asian,1.68
+552,Asian,0.75
+553,Buffet,3.56
+554,Mexican,5.85
+555,Asian,0.62
+556,Mexican,4.3
+557,Mediterranean,6.47
+558,Italian,9.91
+559,Asian,5.61
+560,Mediterranean,6.21
+561,Italian,9.42
+562,Fast Food,8.32
+563,Mediterranean,5.14
+564,Mexican,8.65
+565,Mexican,2.08
+566,Buffet,8.52
+567,Mediterranean,3.81
+568,Mexican,9.7
+569,Buffet,0.63
+570,Mexican,7.54
+571,Mediterranean,5.58
+572,Fast Food,8.0
+573,Mediterranean,4.7
+574,Fast Food,4.6
+575,Mexican,2.67
+576,Asian,7.97
+577,Italian,2.5
+578,Asian,2.46
+579,Asian,4.65
+580,Sushi,5.76
+581,Italian,5.15
+582,Fast Food,3.2
+583,Italian,8.32
+584,Mexican,8.01
+585,Asian,6.04
+586,Fast Food,4.84
+587,Fast Food,5.45
+588,Fast Food,2.0
+589,Fast Food,7.19
+590,Buffet,9.18
+591,Buffet,6.38
+592,Fast Food,4.26
+593,Mediterranean,8.41
+594,Asian,2.5
+595,Mediterranean,3.71
+596,Mexican,3.25
+597,Asian,3.58
+598,Asian,7.38
+599,Italian,4.47
+600,Asian,6.64
+601,Fast Food,0.66
+602,Fast Food,3.08
+603,Mediterranean,3.75
+604,Sushi,9.07
+605,Asian,3.41
+606,Fast Food,2.88
+607,Sushi,6.09
+608,Sushi,7.22
+609,Asian,5.08
+610,Mexican,7.03
+611,Mediterranean,8.43
+612,Fast Food,6.23
+613,Asian,3.97
+614,Buffet,4.28
+615,Fast Food,9.78
+616,Fast Food,3.89
+617,Buffet,5.43
+618,Fast Food,8.48
+619,Asian,6.92
+620,Fast Food,1.18
+621,Mediterranean,2.53
+622,Sushi,6.91
+623,Mediterranean,0.6
+624,Sushi,6.34
+625,Mexican,8.08
+626,Mexican,7.16
+627,Buffet,5.01
+628,Asian,2.24
+629,Sushi,4.15
+630,Asian,0.81
+631,Mexican,7.76
+632,Mexican,0.05
+633,Asian,0.86
+634,Mexican,7.68
+635,Italian,6.32
+636,Italian,9.56
+637,Mexican,1.82
+638,Mediterranean,2.87
+639,Buffet,0.98
+640,Mexican,0.17
+641,Sushi,1.47
+642,Buffet,3.7
+643,Buffet,3.88
+644,Fast Food,5.78
+645,Sushi,5.79
+646,Mexican,2.11
+647,Mediterranean,0.92
+648,Italian,6.89
+649,Italian,4.18
+650,Mediterranean,7.47
+651,Buffet,6.44
+652,Asian,1.31
+653,Fast Food,6.36
+654,Buffet,8.36
+655,Asian,5.38
+656,Sushi,8.77
+657,Italian,3.34
+658,Fast Food,1.53
+659,Asian,1.17
+660,Italian,4.41
+661,Mexican,2.63
+662,Fast Food,7.64
+663,Asian,7.06
+664,Fast Food,6.86
+665,Fast Food,4.05
+666,Buffet,5.9
+667,Mexican,4.93
+668,Asian,4.1
+669,Mediterranean,9.68
+670,Buffet,9.64
+671,Mediterranean,3.47
+672,Sushi,3.46
+673,Mediterranean,3.64
+674,Mexican,7.55
+675,Asian,3.0
+676,Sushi,6.32
+677,Italian,5.01
+678,Fast Food,2.75
+679,Fast Food,5.05
+680,Fast Food,4.44
+681,Fast Food,0.08
+682,Mediterranean,9.54
+683,Sushi,1.81
+684,Fast Food,3.2
+685,Mediterranean,3.89
+686,Italian,2.01
+687,Buffet,9.97
+688,Fast Food,2.53
+689,Mexican,6.67
+690,Mexican,4.09
+691,Mediterranean,4.34
+692,Mexican,2.67
+693,Mediterranean,8.23
+694,Buffet,7.37
+695,Fast Food,2.91
+696,Buffet,6.81
+697,Fast Food,6.48
+698,Mexican,2.18
+699,Sushi,4.67
+700,Asian,1.82
+701,Italian,9.99
+702,Sushi,1.49
+703,Sushi,6.93
+704,Buffet,7.24
+705,Asian,8.41
+706,Mexican,7.89
+707,Mexican,7.13
+708,Sushi,0.83
+709,Fast Food,1.34
+710,Fast Food,1.23
+711,Mediterranean,5.57
+712,Asian,6.41
+713,Mediterranean,0.61
+714,Italian,5.25
+715,Buffet,5.88
+716,Sushi,5.5
+717,Italian,2.41
+718,Fast Food,7.0
+719,Italian,7.57
+720,Buffet,0.25
+721,Fast Food,5.53
+722,Mexican,8.08
+723,Buffet,5.43
+724,Fast Food,1.52
+725,Asian,9.36
+726,Fast Food,7.06
+727,Mexican,2.33
+728,Mexican,5.59
+729,Mediterranean,2.77
+730,Mexican,7.14
+731,Sushi,1.98
+732,Mexican,9.42
+733,Sushi,9.5
+734,Sushi,6.05
+735,Mexican,1.17
+736,Fast Food,7.13
+737,Mediterranean,7.82
+738,Fast Food,0.88
+739,Fast Food,6.63
+740,Sushi,6.26
+741,Fast Food,5.76
+742,Mexican,3.84
+743,Mediterranean,4.51
+744,Fast Food,5.52
+745,Mexican,4.72
+746,Buffet,0.5
+747,Fast Food,4.58
+748,Fast Food,6.81
+749,Mexican,2.18
+750,Sushi,9.51
+751,Fast Food,8.17
+752,Sushi,1.96
+753,Mexican,3.66
+754,Mexican,3.31
+755,Mexican,1.27
+756,Italian,7.73
+757,Italian,1.63
+758,Asian,1.35
+759,Fast Food,3.6
+760,Asian,0.3
+761,Mexican,5.31
+762,Italian,2.2
+763,Sushi,0.09
+764,Sushi,5.96
+765,Italian,0.84
+766,Mexican,4.33
+767,Mediterranean,9.82
+768,Mexican,6.71
+769,Buffet,3.12
+770,Fast Food,1.24
+771,Mediterranean,0.49
+772,Mexican,7.61
+773,Mexican,9.12
+774,Mediterranean,1.11
+775,Fast Food,0.75
+776,Mediterranean,5.58
+777,Fast Food,3.44
+778,Italian,8.88
+779,Asian,0.42
+780,Sushi,7.8
+781,Mediterranean,6.25
+782,Mediterranean,5.89
+783,Mediterranean,0.24
+784,Sushi,0.25
+785,Italian,7.21
+786,Buffet,2.63
+787,Mediterranean,6.13
+788,Buffet,9.86
+789,Buffet,9.53
+790,Sushi,5.05
+791,Mediterranean,5.1
+792,Asian,3.66
+793,Buffet,9.84
+794,Italian,8.08
+795,Sushi,5.33
+796,Mediterranean,2.07
+797,Mediterranean,4.22
+798,Sushi,9.28
+799,Buffet,1.48
+800,Asian,4.7
+801,Mediterranean,5.83
+802,Fast Food,9.33
+803,Italian,0.41
+804,Fast Food,8.42
+805,Mexican,1.73
+806,Asian,9.4
+807,Buffet,0.38
+808,Asian,0.61
+809,Fast Food,6.02
+810,Italian,0.7
+811,Asian,3.34
+812,Italian,2.06
+813,Sushi,4.81
+814,Fast Food,3.54
+815,Asian,6.79
+816,Fast Food,2.32
+817,Italian,9.85
+818,Fast Food,2.27
+819,Asian,9.15
+820,Italian,3.58
+821,Italian,8.94
+822,Fast Food,3.98
+823,Mediterranean,7.49
+824,Italian,1.87
+825,Mexican,1.36
+826,Mexican,8.15
+827,Mediterranean,5.25
+828,Mediterranean,7.47
+829,Asian,2.68
+830,Fast Food,2.09
+831,Asian,8.28
+832,Asian,2.65
+833,Fast Food,0.77
+834,Fast Food,5.14
+835,Sushi,9.33
+836,Italian,9.65
+837,Italian,8.39
+838,Buffet,8.03
+839,Buffet,3.39
+840,Fast Food,7.46
+841,Mexican,6.28
+842,Asian,1.21
+843,Fast Food,3.29
+844,Asian,5.13
+845,Buffet,6.75
+846,Mediterranean,3.59
+847,Sushi,8.27
+848,Fast Food,2.78
+849,Mexican,8.86
+850,Fast Food,2.82
+851,Sushi,0.99
+852,Fast Food,2.62
+853,Asian,9.61
+854,Fast Food,9.5
+855,Mexican,7.11
+856,Italian,7.12
+857,Mediterranean,2.2
+858,Buffet,5.5
+859,Mexican,7.94
+860,Asian,3.2
+861,Asian,4.87
+862,Buffet,2.89
+863,Fast Food,0.99
+864,Mexican,5.31
+865,Fast Food,4.76
+866,Fast Food,9.51
+867,Mexican,5.33
+868,Fast Food,1.78
+869,Sushi,2.04
+870,Sushi,2.9
+871,Sushi,5.05
+872,Mediterranean,3.29
+873,Fast Food,3.23
+874,Italian,9.38
+875,Buffet,6.81
+876,Asian,9.58
+877,Italian,5.81
+878,Sushi,4.27
+879,Mexican,7.17
+880,Italian,5.54
+881,Mediterranean,2.38
+882,Mediterranean,7.94
+883,Mexican,8.5
+884,Sushi,0.19
+885,Italian,6.24
+886,Sushi,4.67
+887,Asian,4.79
+888,Italian,9.63
+889,Italian,5.13
+890,Asian,2.45
+891,Mediterranean,3.04
+892,Mexican,3.82
+893,Buffet,5.43
+894,Fast Food,2.17
+895,Italian,3.46
+896,Fast Food,1.6
+897,Italian,9.45
+898,Asian,7.48
+899,Buffet,0.45
+900,Fast Food,9.84
+901,Mexican,4.92
+902,Italian,0.19
+903,Sushi,0.71
+904,Asian,0.21
+905,Asian,1.59
+906,Asian,8.45
+907,Buffet,1.5
+908,Buffet,0.17
+909,Mediterranean,9.52
+910,Buffet,5.87
+911,Fast Food,5.75
+912,Asian,0.59
+913,Fast Food,6.04
+914,Sushi,0.31
+915,Fast Food,5.46
+916,Mexican,1.33
+917,Italian,9.55
+918,Mediterranean,8.88
+919,Italian,9.78
+920,Mexican,5.07
+921,Fast Food,6.51
+922,Sushi,7.04
+923,Fast Food,9.43
+924,Italian,2.29
+925,Mexican,8.71
+926,Sushi,5.45
+927,Asian,7.66
+928,Fast Food,6.07
+929,Mediterranean,7.34
+930,Buffet,9.86
+931,Fast Food,8.02
+932,Mexican,1.82
+933,Fast Food,1.71
+934,Fast Food,4.07
+935,Sushi,8.32
+936,Fast Food,0.45
+937,Italian,1.31
+938,Fast Food,8.79
+939,Fast Food,8.98
+940,Buffet,1.09
+941,Asian,4.05
+942,Buffet,8.64
+943,Asian,7.32
+944,Fast Food,8.5
+945,Fast Food,7.6
+946,Sushi,1.87
+947,Mexican,0.76
+948,Fast Food,8.01
+949,Fast Food,4.82
+950,Italian,9.11
+951,Mexican,3.49
+952,Sushi,5.38
+953,Mediterranean,6.19
+954,Sushi,2.8
+955,Buffet,9.93
+956,Fast Food,2.91
+957,Italian,8.4
+958,Italian,6.33
+959,Fast Food,0.03
+960,Fast Food,2.25
+961,Asian,8.29
+962,Buffet,9.38
+963,Sushi,1.09
+964,Sushi,6.99
+965,Sushi,2.35
+966,Mexican,7.44
+967,Buffet,6.73
+968,Buffet,7.46
+969,Asian,9.94
+970,Mexican,0.44
+971,Mediterranean,6.98
+972,Sushi,4.05
+973,Fast Food,4.91
+974,Mexican,6.94
+975,Mediterranean,4.67
+976,Fast Food,4.45
+977,Sushi,8.56
+978,Fast Food,9.3
+979,Mediterranean,1.62
+980,Fast Food,3.5
+981,Sushi,4.37
+982,Asian,9.44
+983,Mediterranean,8.98
+984,Buffet,6.08
+985,Fast Food,2.06
+986,Italian,2.86
+987,Sushi,0.96
+988,Buffet,9.49
+989,Fast Food,3.28
+990,Mediterranean,2.99
+991,Italian,3.29
+992,Italian,2.85
+993,Fast Food,3.18
+994,Asian,7.79
+995,Italian,7.48
+996,Buffet,6.47
+997,Fast Food,4.89
+998,Buffet,5.38
+999,Mexican,2.62
+1000,Fast Food,2.21
+1001,Mexican,8.4
+1002,Buffet,1.4
+1003,Mediterranean,8.32
+1004,Fast Food,9.21
+1005,Italian,6.12
+1006,Fast Food,0.87
+1007,Fast Food,5.35
+1008,Fast Food,8.16
+1009,Sushi,0.76
+1010,Fast Food,0.66
+1011,Fast Food,7.42
+1012,Buffet,0.38
+1013,Italian,0.9
+1014,Fast Food,0.08
+1015,Mediterranean,9.7
+1016,Italian,1.58
+1017,Mexican,3.68
+1018,Sushi,1.42
+1019,Mediterranean,5.98
+1020,Fast Food,2.06
+1021,Mexican,9.19
+1022,Mexican,2.08
+1023,Buffet,8.08
+1024,Mediterranean,1.08
+1025,Italian,7.19
+1026,Sushi,3.63
+1027,Italian,8.0
+1028,Asian,5.31
+1029,Fast Food,0.45
+1030,Fast Food,6.73
+1031,Fast Food,4.07
+1032,Sushi,7.57
+1033,Buffet,7.44
+1034,Buffet,7.66
+1035,Buffet,1.64
+1036,Fast Food,4.87
+1037,Mediterranean,0.91
+1038,Buffet,1.08
+1039,Fast Food,2.88
+1040,Fast Food,6.89
+1041,Asian,2.56
+1042,Buffet,5.94
+1043,Italian,1.56
+1044,Buffet,9.64
+1045,Sushi,6.62
+1046,Mediterranean,4.94
+1047,Buffet,5.44
+1048,Mediterranean,4.45
+1049,Buffet,7.03
+1050,Italian,5.07
+1051,Sushi,8.74
+1052,Buffet,5.09
+1053,Buffet,2.42
+1054,Italian,5.5
+1055,Italian,6.67
+1056,Fast Food,6.46
+1057,Asian,2.38
+1058,Mediterranean,5.38
+1059,Sushi,9.28
+1060,Buffet,3.02
+1061,Fast Food,6.95
+1062,Fast Food,2.79
+1063,Fast Food,1.14
+1064,Buffet,4.38
+1065,Fast Food,4.24
+1066,Buffet,2.15
+1067,Mexican,0.85
+1068,Fast Food,2.28
+1069,Asian,2.11
+1070,Mediterranean,3.51
+1071,Sushi,5.37
+1072,Mediterranean,4.32
+1073,Asian,6.57
+1074,Sushi,6.4
+1075,Italian,4.0
+1076,Buffet,4.69
+1077,Italian,3.72
+1078,Mediterranean,4.57
+1079,Mexican,0.85
+1080,Sushi,9.92
+1081,Asian,3.15
+1082,Fast Food,1.16
+1083,Mediterranean,8.82
+1084,Mexican,6.45
+1085,Sushi,3.61
+1086,Mediterranean,0.23
+1087,Fast Food,2.86
+1088,Fast Food,0.72
+1089,Italian,8.42
+1090,Mediterranean,3.17
+1091,Mexican,4.78
+1092,Asian,7.01
+1093,Fast Food,4.39
+1094,Sushi,9.92
+1095,Fast Food,1.27
+1096,Italian,8.89
+1097,Buffet,6.84
+1098,Fast Food,8.24
+1099,Buffet,9.54
+1100,Mediterranean,9.65
+1101,Sushi,9.15
+1102,Sushi,6.13
+1103,Asian,3.39
+1104,Fast Food,8.47
+1105,Fast Food,1.64
+1106,Buffet,8.11
+1107,Mexican,3.59
+1108,Mediterranean,8.93
+1109,Fast Food,3.87
+1110,Asian,0.47
+1111,Sushi,9.01
+1112,Asian,0.62
+1113,Italian,8.89
+1114,Buffet,6.96
+1115,Mediterranean,6.69
+1116,Fast Food,9.61
+1117,Mexican,8.62
+1118,Sushi,8.36
+1119,Mediterranean,7.96
+1120,Mediterranean,6.43
+1121,Sushi,9.05
+1122,Buffet,8.77
+1123,Sushi,6.36
+1124,Buffet,9.21
+1125,Buffet,6.37
+1126,Sushi,7.69
+1127,Mediterranean,5.32
+1128,Sushi,9.0
+1129,Asian,2.43
+1130,Sushi,2.75
+1131,Italian,7.27
+1132,Buffet,2.73
+1133,Fast Food,0.38
+1134,Asian,3.63
+1135,Fast Food,0.23
+1136,Mexican,6.13
+1137,Fast Food,2.76
+1138,Fast Food,3.99
+1139,Fast Food,0.74
+1140,Italian,6.71
+1141,Mediterranean,8.22
+1142,Fast Food,9.87
+1143,Mexican,9.62
+1144,Italian,5.73
+1145,Mediterranean,0.73
+1146,Italian,9.92
+1147,Mediterranean,4.22
+1148,Fast Food,3.71
+1149,Italian,9.76
+1150,Asian,2.63
+1151,Italian,4.1
+1152,Fast Food,0.26
+1153,Buffet,1.6
+1154,Mediterranean,1.52
+1155,Sushi,4.2
+1156,Asian,0.13
+1157,Buffet,5.67
+1158,Fast Food,5.44
+1159,Asian,4.08
+1160,Sushi,4.94
+1161,Asian,1.11
+1162,Fast Food,5.65
+1163,Asian,2.84
+1164,Mediterranean,7.36
+1165,Buffet,0.81
+1166,Buffet,1.01
+1167,Buffet,7.67
+1168,Italian,1.43
+1169,Mediterranean,4.04
+1170,Fast Food,0.13
+1171,Buffet,1.85
+1172,Mexican,0.46
+1173,Fast Food,9.16
+1174,Mediterranean,0.8
+1175,Mediterranean,3.31
+1176,Fast Food,7.82
+1177,Asian,9.8
+1178,Fast Food,2.65
+1179,Mediterranean,0.21
+1180,Fast Food,3.33
+1181,Italian,6.64
+1182,Asian,1.73
+1183,Asian,8.12
+1184,Sushi,1.79
+1185,Mediterranean,4.0
+1186,Fast Food,3.88
+1187,Asian,7.03
+1188,Mexican,9.94
+1189,Italian,4.61
+1190,Sushi,5.89
+1191,Asian,9.35
+1192,Mediterranean,8.68
+1193,Italian,3.7
+1194,Italian,2.29
+1195,Italian,0.1
+1196,Mediterranean,8.0
+1197,Asian,0.63
+1198,Mediterranean,0.36
+1199,Fast Food,3.71
+1200,Mediterranean,7.43
+1201,Fast Food,5.84
+1202,Mediterranean,1.42
+1203,Buffet,4.75
+1204,Fast Food,0.78
+1205,Buffet,1.51
+1206,Mexican,4.86
+1207,Sushi,5.01
+1208,Italian,6.48
+1209,Sushi,0.83
+1210,Mediterranean,7.84
+1211,Fast Food,9.75
+1212,Buffet,3.98
+1213,Fast Food,1.37
+1214,Buffet,9.33
+1215,Sushi,7.19
+1216,Fast Food,5.6
+1217,Buffet,0.42
+1218,Asian,0.41
+1219,Asian,7.31
+1220,Mexican,5.39
+1221,Mediterranean,1.35
+1222,Sushi,1.34
+1223,Asian,3.82
+1224,Buffet,6.5
+1225,Buffet,5.78
+1226,Fast Food,6.15
+1227,Buffet,4.47
+1228,Fast Food,6.97
+1229,Mexican,2.4
+1230,Sushi,0.2
+1231,Italian,8.79
+1232,Mediterranean,1.4
+1233,Italian,0.97
+1234,Fast Food,5.51
+1235,Asian,6.86
+1236,Mexican,8.21
+1237,Italian,1.6
+1238,Italian,2.72
+1239,Mexican,2.39
+1240,Fast Food,8.34
+1241,Asian,1.37
+1242,Fast Food,5.34
+1243,Mediterranean,9.84
+1244,Mediterranean,4.64
+1245,Asian,2.46
+1246,Buffet,7.05
+1247,Fast Food,1.41
+1248,Sushi,9.1
+1249,Sushi,3.38
+1250,Fast Food,2.2
+1251,Asian,9.9
+1252,Asian,4.09
+1253,Asian,7.09
+1254,Italian,6.43
+1255,Fast Food,9.53
+1256,Sushi,2.35
+1257,Fast Food,2.11
+1258,Mediterranean,6.64
+1259,Buffet,6.01
+1260,Asian,2.53
+1261,Buffet,1.82
+1262,Italian,6.98
+1263,Mexican,9.81
+1264,Mediterranean,2.55
+1265,Italian,0.41
+1266,Fast Food,9.87
+1267,Italian,6.46
+1268,Mediterranean,9.7
+1269,Sushi,0.71
+1270,Sushi,8.15
+1271,Sushi,0.91
+1272,Asian,0.18
+1273,Fast Food,2.05
+1274,Italian,2.33
+1275,Fast Food,7.94
+1276,Fast Food,4.65
+1277,Mexican,9.4
+1278,Mediterranean,6.94
+1279,Fast Food,3.68
+1280,Asian,1.03
+1281,Mexican,9.18
+1282,Asian,8.91
+1283,Mediterranean,9.51
+1284,Fast Food,3.29
+1285,Sushi,5.57
+1286,Fast Food,8.21
+1287,Fast Food,4.93
+1288,Mediterranean,7.63
+1289,Fast Food,7.5
+1290,Italian,2.84
+1291,Asian,5.3
+1292,Fast Food,1.16
+1293,Asian,8.0
+1294,Italian,4.39
+1295,Buffet,1.9
+1296,Buffet,1.54
+1297,Sushi,6.71
+1298,Buffet,2.62
+1299,Mexican,3.74
+1300,Fast Food,8.7
+1301,Fast Food,8.05
+1302,Mediterranean,5.59
+1303,Mexican,8.33
+1304,Fast Food,9.45
+1305,Sushi,5.33
+1306,Buffet,2.46
+1307,Italian,6.06
+1308,Fast Food,8.53
+1309,Fast Food,7.97
+1310,Fast Food,1.46
+1311,Mediterranean,3.74
+1312,Asian,5.95
+1313,Mexican,7.82
+1314,Buffet,3.55
+1315,Buffet,7.33
+1316,Mediterranean,3.19
+1317,Buffet,4.39
+1318,Mexican,3.33
+1319,Asian,9.03
+1320,Fast Food,4.75
+1321,Mexican,1.95
+1322,Mexican,6.32
+1323,Asian,3.62
+1324,Mediterranean,3.76
+1325,Mexican,9.67
+1326,Fast Food,6.46
+1327,Italian,2.57
+1328,Fast Food,8.77
+1329,Sushi,6.38
+1330,Asian,3.26
+1331,Buffet,0.89
+1332,Sushi,5.38
+1333,Fast Food,7.56
+1334,Mexican,5.14
+1335,Fast Food,4.78
+1336,Mexican,7.48
+1337,Mexican,0.19
+1338,Italian,9.34
+1339,Fast Food,0.02
+1340,Fast Food,6.8
+1341,Mediterranean,4.85
+1342,Mediterranean,8.9
+1343,Mediterranean,1.51
+1344,Italian,6.39
+1345,Sushi,0.78
+1346,Mediterranean,6.82
+1347,Mediterranean,6.93
+1348,Mediterranean,8.34
+1349,Fast Food,4.88
+1350,Fast Food,3.6
+1351,Buffet,6.97
+1352,Sushi,7.18
+1353,Mexican,0.16
+1354,Mediterranean,8.0
+1355,Sushi,3.68
+1356,Fast Food,9.52
+1357,Sushi,5.86
+1358,Mexican,2.63
+1359,Mediterranean,9.17
+1360,Mediterranean,4.33
+1361,Buffet,2.08
+1362,Italian,1.3
+1363,Sushi,5.11
+1364,Buffet,2.98
+1365,Mexican,1.03
+1366,Fast Food,2.74
+1367,Buffet,1.92
+1368,Asian,8.58
+1369,Italian,8.74
+1370,Buffet,7.87
+1371,Asian,0.94
+1372,Italian,4.24
+1373,Buffet,9.35
+1374,Mediterranean,6.83
+1375,Fast Food,9.21
+1376,Asian,5.8
+1377,Italian,0.31
+1378,Mediterranean,0.18
+1379,Italian,2.0
+1380,Mediterranean,0.58
+1381,Fast Food,3.14
+1382,Mexican,6.51
+1383,Fast Food,9.41
+1384,Mexican,5.8
+1385,Mediterranean,1.52
+1386,Buffet,4.18
+1387,Sushi,0.39
+1388,Asian,1.4
+1389,Buffet,9.8
+1390,Mediterranean,1.31
+1391,Fast Food,5.92
+1392,Sushi,7.27
+1393,Mediterranean,4.77
+1394,Mexican,9.47
+1395,Italian,3.01
+1396,Mediterranean,0.05
+1397,Italian,1.97
+1398,Italian,8.81
+1399,Sushi,6.47
+1400,Asian,8.4
+1401,Fast Food,8.48
+1402,Mediterranean,8.36
+1403,Mediterranean,8.36
+1404,Mexican,5.69
+1405,Mediterranean,2.49
+1406,Fast Food,0.56
+1407,Asian,3.43
+1408,Mexican,8.54
+1409,Sushi,5.12
+1410,Asian,4.9
+1411,Fast Food,5.65
+1412,Sushi,5.94
+1413,Buffet,8.22
+1414,Fast Food,5.19
+1415,Fast Food,3.19
+1416,Mexican,8.91
+1417,Sushi,0.01
+1418,Buffet,4.52
+1419,Mediterranean,4.63
+1420,Fast Food,9.26
+1421,Mediterranean,4.39
+1422,Sushi,9.66
+1423,Mexican,4.88
+1424,Buffet,9.0
+1425,Buffet,0.35
+1426,Mexican,8.7
+1427,Fast Food,5.07
+1428,Mediterranean,9.68
+1429,Fast Food,0.3
+1430,Mexican,4.86
+1431,Mexican,8.11
+1432,Italian,4.87
+1433,Mexican,7.89
+1434,Mediterranean,5.82
+1435,Fast Food,9.39
+1436,Sushi,9.1
+1437,Mediterranean,9.78
+1438,Fast Food,7.52
+1439,Fast Food,1.99
+1440,Asian,2.19
+1441,Mediterranean,8.91
+1442,Fast Food,4.8
+1443,Fast Food,8.76
+1444,Asian,3.13
+1445,Sushi,1.91
+1446,Mediterranean,8.0
+1447,Buffet,5.32
+1448,Fast Food,1.38
+1449,Sushi,9.12
+1450,Mexican,6.13
+1451,Mexican,4.89
+1452,Mexican,9.09
+1453,Asian,5.17
+1454,Fast Food,3.28
+1455,Mediterranean,8.18
+1456,Buffet,8.08
+1457,Fast Food,1.56
+1458,Sushi,5.19
+1459,Sushi,4.6
+1460,Fast Food,6.41
+1461,Fast Food,3.53
+1462,Mediterranean,9.14
+1463,Asian,5.8
+1464,Mediterranean,8.2
+1465,Italian,8.08
+1466,Italian,8.59
+1467,Sushi,6.5
+1468,Mexican,0.9
+1469,Buffet,5.8
+1470,Mexican,0.53
+1471,Mexican,4.63
+1472,Mexican,8.61
+1473,Sushi,2.27
+1474,Buffet,0.34
+1475,Mexican,6.25
+1476,Mexican,9.44
+1477,Sushi,7.33
+1478,Mexican,2.82
+1479,Italian,3.86
+1480,Mediterranean,9.33
+1481,Sushi,3.32
+1482,Fast Food,2.71
+1483,Italian,3.01
+1484,Buffet,1.35
+1485,Fast Food,8.25
+1486,Italian,1.35
+1487,Mediterranean,2.02
+1488,Asian,4.21
+1489,Mexican,4.47
+1490,Mediterranean,0.9
+1491,Mediterranean,2.86
+1492,Fast Food,8.96
+1493,Fast Food,1.8
+1494,Mexican,1.28
+1495,Fast Food,9.6
+1496,Mexican,4.73
+1497,Sushi,2.3
+1498,Fast Food,8.45
+1499,Fast Food,6.04
+1500,Fast Food,9.39
+1501,Mediterranean,6.57
+1502,Fast Food,8.15
+1503,Italian,8.66
+1504,Mediterranean,9.13
+1505,Mexican,9.65
+1506,Italian,4.13
+1507,Italian,2.02
+1508,Mediterranean,4.45
+1509,Mexican,4.17
+1510,Buffet,1.45
+1511,Mediterranean,4.07
+1512,Mexican,0.74
+1513,Fast Food,5.03
+1514,Mediterranean,2.47
+1515,Fast Food,8.81
+1516,Mexican,6.82
+1517,Italian,8.99
+1518,Asian,3.08
+1519,Mexican,4.14
+1520,Buffet,3.69
+1521,Fast Food,1.9
+1522,Fast Food,3.71
+1523,Fast Food,1.4
+1524,Fast Food,4.39
+1525,Fast Food,6.41
+1526,Asian,0.2
+1527,Italian,5.03
+1528,Fast Food,7.44
+1529,Fast Food,5.93
+1530,Fast Food,8.94
+1531,Asian,2.04
+1532,Asian,2.87
+1533,Italian,0.96
+1534,Fast Food,2.85
+1535,Fast Food,5.62
+1536,Mexican,4.28
+1537,Fast Food,5.9
+1538,Mexican,5.72
+1539,Sushi,6.64
+1540,Italian,5.11
+1541,Asian,9.57
+1542,Italian,8.48
+1543,Mexican,7.91
+1544,Fast Food,1.14
+1545,Italian,7.86
+1546,Fast Food,8.39
+1547,Italian,5.01
+1548,Fast Food,0.63
+1549,Italian,1.81
+1550,Sushi,5.97
+1551,Asian,4.6
+1552,Asian,6.58
+1553,Mexican,4.82
+1554,Mexican,0.46
+1555,Italian,9.64
+1556,Sushi,2.95
+1557,Fast Food,3.81
+1558,Fast Food,0.42
+1559,Asian,1.91
+1560,Fast Food,4.22
+1561,Fast Food,3.11
+1562,Mediterranean,3.93
+1563,Italian,5.67
+1564,Mexican,1.23
+1565,Mexican,0.43
+1566,Italian,8.81
+1567,Italian,8.03
+1568,Mediterranean,6.07
+1569,Mexican,4.55
+1570,Buffet,8.11
+1571,Italian,1.43
+1572,Buffet,3.7
+1573,Asian,2.87
+1574,Italian,5.38
+1575,Buffet,2.96
+1576,Italian,2.8
+1577,Asian,7.34
+1578,Mexican,3.38
+1579,Mediterranean,0.01
+1580,Mexican,5.15
+1581,Buffet,4.59
+1582,Mediterranean,0.17
+1583,Fast Food,4.26
+1584,Sushi,9.33
+1585,Italian,8.59
+1586,Asian,3.55
+1587,Mediterranean,6.15
+1588,Mediterranean,1.28
+1589,Italian,9.54
+1590,Italian,5.5
+1591,Asian,5.78
+1592,Mediterranean,4.4
+1593,Fast Food,6.74
+1594,Fast Food,3.33
+1595,Mediterranean,4.93
+1596,Fast Food,7.01
+1597,Mexican,2.5
+1598,Sushi,6.0
+1599,Asian,5.29
+1600,Fast Food,7.7
+1601,Asian,7.09
+1602,Fast Food,9.83
+1603,Mediterranean,0.47
+1604,Fast Food,6.08
+1605,Fast Food,9.84
+1606,Sushi,9.52
+1607,Fast Food,6.2
+1608,Asian,6.05
+1609,Buffet,6.96
+1610,Italian,3.41
+1611,Buffet,5.9
+1612,Sushi,4.24
+1613,Italian,4.02
+1614,Italian,4.0
+1615,Mexican,2.04
+1616,Mexican,5.31
+1617,Sushi,4.02
+1618,Mexican,5.38
+1619,Mexican,7.49
+1620,Asian,9.21
+1621,Buffet,8.96
+1622,Fast Food,3.11
+1623,Asian,7.22
+1624,Fast Food,1.65
+1625,Buffet,9.0
+1626,Italian,4.93
+1627,Mediterranean,1.87
+1628,Buffet,4.57
+1629,Italian,6.05
+1630,Mediterranean,5.52
+1631,Fast Food,8.91
+1632,Sushi,9.56
+1633,Fast Food,8.9
+1634,Italian,5.77
+1635,Asian,6.55
+1636,Fast Food,1.7
+1637,Buffet,5.73
+1638,Mediterranean,0.6
+1639,Fast Food,7.14
+1640,Mediterranean,6.43
+1641,Buffet,3.67
+1642,Asian,8.35
+1643,Fast Food,0.46
+1644,Fast Food,2.94
+1645,Mexican,5.65
+1646,Asian,7.96
+1647,Italian,5.1
+1648,Mexican,0.92
+1649,Asian,4.02
+1650,Mediterranean,2.09
+1651,Mexican,3.02
+1652,Mexican,0.66
+1653,Asian,9.76
+1654,Italian,8.41
+1655,Fast Food,4.16
+1656,Fast Food,4.15
+1657,Fast Food,4.84
+1658,Buffet,6.97
+1659,Mexican,5.42
+1660,Mexican,1.69
+1661,Mexican,3.33
+1662,Asian,1.13
+1663,Buffet,2.11
+1664,Asian,1.57
+1665,Fast Food,6.41
+1666,Mediterranean,1.6
+1667,Mediterranean,7.28
+1668,Asian,4.68
+1669,Mexican,8.41
+1670,Mexican,9.68
+1671,Asian,9.59
+1672,Asian,0.94
+1673,Fast Food,3.71
+1674,Italian,6.53
+1675,Fast Food,0.39
+1676,Asian,9.04
+1677,Italian,3.7
+1678,Fast Food,4.41
+1679,Mediterranean,4.03
+1680,Sushi,5.87
+1681,Sushi,1.03
+1682,Asian,0.3
+1683,Mexican,8.35
+1684,Buffet,6.2
+1685,Fast Food,9.02
+1686,Mexican,6.3
+1687,Fast Food,8.15
+1688,Fast Food,9.29
+1689,Fast Food,2.25
+1690,Buffet,1.07
+1691,Asian,3.82
+1692,Fast Food,9.27
+1693,Sushi,4.25
+1694,Fast Food,5.32
+1695,Mexican,2.33
+1696,Fast Food,3.11
+1697,Sushi,0.38
+1698,Fast Food,0.71
+1699,Italian,8.19
+1700,Sushi,3.15
+1701,Buffet,5.28
+1702,Mediterranean,8.1
+1703,Italian,7.68
+1704,Sushi,5.88
+1705,Sushi,2.53
+1706,Buffet,3.87
+1707,Italian,5.23
+1708,Buffet,8.61
+1709,Asian,3.52
+1710,Mexican,8.02
+1711,Fast Food,5.95
+1712,Fast Food,9.57
+1713,Mexican,1.37
+1714,Mediterranean,4.7
+1715,Fast Food,7.52
+1716,Asian,0.25
+1717,Mexican,5.19
+1718,Fast Food,0.93
+1719,Sushi,6.28
+1720,Fast Food,1.27
+1721,Asian,4.9
+1722,Asian,2.57
+1723,Sushi,9.4
+1724,Buffet,1.73
+1725,Mexican,4.23
+1726,Sushi,4.28
+1727,Asian,7.28
+1728,Buffet,1.98
+1729,Sushi,5.79
+1730,Buffet,7.14
+1731,Mexican,9.56
+1732,Asian,6.97
+1733,Sushi,1.33
+1734,Mediterranean,1.91
+1735,Mexican,7.81
+1736,Sushi,3.39
+1737,Mexican,2.5
+1738,Buffet,0.7
+1739,Mediterranean,6.66
+1740,Mexican,6.81
+1741,Asian,9.68
+1742,Fast Food,1.56
+1743,Mediterranean,1.43
+1744,Italian,6.52
+1745,Buffet,4.03
+1746,Mediterranean,0.87
+1747,Asian,8.92
+1748,Italian,0.73
+1749,Mediterranean,3.28
+1750,Mediterranean,9.2
+1751,Sushi,5.32
+1752,Sushi,8.54
+1753,Mediterranean,6.79
+1754,Mediterranean,0.93
+1755,Fast Food,3.79
+1756,Mexican,3.68
+1757,Fast Food,1.54
+1758,Mexican,2.8
+1759,Sushi,3.54
+1760,Fast Food,0.65
+1761,Italian,8.95
+1762,Fast Food,6.5
+1763,Fast Food,9.18
+1764,Buffet,6.42
+1765,Italian,3.86
+1766,Fast Food,7.45
+1767,Sushi,4.26
+1768,Fast Food,2.12
+1769,Fast Food,1.79
+1770,Mexican,5.28
+1771,Buffet,4.49
+1772,Sushi,2.37
+1773,Fast Food,7.87
+1774,Fast Food,2.81
+1775,Sushi,4.01
+1776,Mediterranean,3.99
+1777,Fast Food,6.84
+1778,Fast Food,7.85
+1779,Fast Food,3.09
+1780,Mediterranean,2.34
+1781,Asian,9.32
+1782,Mexican,0.5
+1783,Mediterranean,1.79
+1784,Italian,7.1
+1785,Mexican,8.81
+1786,Asian,8.17
+1787,Buffet,9.07
+1788,Sushi,3.38
+1789,Italian,8.1
+1790,Asian,1.38
+1791,Asian,3.49
+1792,Italian,8.9
+1793,Mediterranean,6.08
+1794,Italian,2.62
+1795,Fast Food,0.54
+1796,Mexican,6.04
+1797,Buffet,5.07
+1798,Asian,9.53
+1799,Fast Food,3.81
+1800,Buffet,5.86
+1801,Mediterranean,9.23
+1802,Sushi,0.36
+1803,Italian,2.93
+1804,Mediterranean,3.73
+1805,Italian,7.01
+1806,Buffet,0.26
+1807,Buffet,2.42
+1808,Fast Food,3.95
+1809,Fast Food,0.54
+1810,Fast Food,0.74
+1811,Mediterranean,0.75
+1812,Fast Food,9.55
+1813,Asian,5.72
+1814,Mexican,6.02
+1815,Sushi,9.66
+1816,Mediterranean,4.48
+1817,Fast Food,8.99
+1818,Italian,3.7
+1819,Fast Food,9.96
+1820,Buffet,7.23
+1821,Asian,2.44
+1822,Buffet,0.56
+1823,Italian,1.41
+1824,Asian,4.82
+1825,Mexican,4.35
+1826,Buffet,7.18
+1827,Sushi,4.95
+1828,Fast Food,8.89
+1829,Fast Food,2.08
+1830,Mexican,6.18
+1831,Asian,0.34
+1832,Asian,1.56
+1833,Mediterranean,9.07
+1834,Mediterranean,7.79
+1835,Fast Food,9.86
+1836,Buffet,7.13
+1837,Sushi,5.66
+1838,Mexican,6.32
+1839,Fast Food,8.59
+1840,Fast Food,6.38
+1841,Buffet,0.16
+1842,Mexican,1.79
+1843,Sushi,2.66
+1844,Sushi,9.54
+1845,Mexican,6.63
+1846,Mediterranean,6.48
+1847,Buffet,3.24
+1848,Fast Food,9.5
+1849,Fast Food,3.86
+1850,Fast Food,7.17
+1851,Fast Food,3.66
+1852,Fast Food,8.19
+1853,Sushi,4.04
+1854,Mexican,2.96
+1855,Mexican,6.61
+1856,Buffet,0.54
+1857,Buffet,5.53
+1858,Italian,5.39
+1859,Sushi,3.58
+1860,Sushi,6.56
+1861,Italian,9.45
+1862,Mediterranean,9.85
+1863,Mediterranean,7.5
+1864,Sushi,7.03
+1865,Buffet,9.22
+1866,Buffet,6.71
+1867,Fast Food,6.31
+1868,Sushi,9.49
+1869,Asian,6.16
+1870,Mexican,6.26
+1871,Asian,2.61
+1872,Asian,4.17
+1873,Buffet,8.66
+1874,Italian,0.85
+1875,Italian,4.54
+1876,Fast Food,0.12
+1877,Sushi,2.21
+1878,Fast Food,0.62
+1879,Italian,3.0
+1880,Buffet,0.36
+1881,Fast Food,8.19
+1882,Fast Food,4.87
+1883,Mexican,1.9
+1884,Asian,5.56
+1885,Mexican,5.83
+1886,Mexican,4.73
+1887,Mexican,7.3
+1888,Fast Food,9.06
+1889,Asian,3.31
+1890,Buffet,9.01
+1891,Fast Food,1.47
+1892,Fast Food,5.32
+1893,Italian,1.8
+1894,Italian,0.24
+1895,Buffet,8.9
+1896,Mexican,3.58
+1897,Fast Food,1.93
+1898,Mexican,5.34
+1899,Sushi,5.28
+1900,Mexican,6.43
+1901,Mediterranean,3.19
+1902,Asian,6.12
+1903,Mediterranean,7.3
+1904,Fast Food,5.09
+1905,Italian,4.42
+1906,Mediterranean,1.92
+1907,Asian,1.8
+1908,Fast Food,8.4
+1909,Asian,1.73
+1910,Mediterranean,5.42
+1911,Fast Food,7.91
+1912,Mexican,9.02
+1913,Mediterranean,4.36
+1914,Fast Food,8.03
+1915,Fast Food,0.76
+1916,Mediterranean,2.27
+1917,Mexican,2.82
+1918,Buffet,4.95
+1919,Asian,5.93
+1920,Fast Food,0.89
+1921,Italian,9.2
+1922,Sushi,7.82
+1923,Mediterranean,3.61
+1924,Buffet,0.3
+1925,Mexican,9.35
+1926,Buffet,8.57
+1927,Fast Food,6.45
+1928,Sushi,3.15
+1929,Asian,0.04
+1930,Italian,5.24
+1931,Asian,8.94
+1932,Sushi,9.55
+1933,Fast Food,2.82
+1934,Fast Food,4.08
+1935,Italian,5.27
+1936,Mediterranean,0.61
+1937,Asian,3.47
+1938,Mexican,1.02
+1939,Buffet,2.45
+1940,Italian,8.9
+1941,Asian,2.62
+1942,Mediterranean,6.31
+1943,Fast Food,6.09
+1944,Fast Food,9.87
+1945,Italian,1.85
+1946,Fast Food,4.91
+1947,Italian,8.07
+1948,Mediterranean,9.23
+1949,Mexican,0.91
+1950,Asian,6.14
+1951,Fast Food,5.05
+1952,Mediterranean,3.69
+1953,Mediterranean,0.37
+1954,Italian,2.63
+1955,Mediterranean,3.55
+1956,Asian,5.36
+1957,Asian,5.57
+1958,Fast Food,5.99
+1959,Sushi,7.35
+1960,Mediterranean,9.17
+1961,Mediterranean,2.97
+1962,Sushi,5.46
+1963,Buffet,9.86
+1964,Sushi,0.13
+1965,Sushi,8.59
+1966,Fast Food,4.65
+1967,Mediterranean,9.87
+1968,Mediterranean,3.79
+1969,Italian,8.15
+1970,Asian,2.99
+1971,Mediterranean,9.22
+1972,Fast Food,7.91
+1973,Mediterranean,9.82
+1974,Asian,4.86
+1975,Buffet,3.05
+1976,Asian,3.89
+1977,Asian,4.6
+1978,Mediterranean,8.63
+1979,Mediterranean,7.94
+1980,Sushi,7.8
+1981,Fast Food,3.5
+1982,Buffet,1.36
+1983,Mexican,7.66
+1984,Fast Food,1.57
+1985,Buffet,9.5
+1986,Sushi,4.11
+1987,Sushi,7.96
+1988,Fast Food,1.67
+1989,Mediterranean,0.74
+1990,Fast Food,7.3
+1991,Buffet,6.72
+1992,Sushi,7.04
+1993,Fast Food,1.71
+1994,Mediterranean,6.43
+1995,Mediterranean,7.38
+1996,Mediterranean,7.86
+1997,Fast Food,5.05
+1998,Asian,5.25
+1999,Buffet,1.14
+2000,Asian,6.18
+2001,Fast Food,8.07
+2002,Fast Food,9.39
+2003,Buffet,0.15
+2004,Mexican,2.66
+2005,Buffet,8.88
+2006,Fast Food,2.16
+2007,Italian,4.91
+2008,Mediterranean,3.39
+2009,Italian,4.62
+2010,Mexican,3.41
+2011,Fast Food,6.05
+2012,Buffet,3.78
+2013,Mexican,8.28
+2014,Mexican,3.73
+2015,Sushi,0.46
+2016,Mexican,7.68
+2017,Mediterranean,0.34
+2018,Asian,6.43
+2019,Buffet,1.34
+2020,Asian,0.4
+2021,Sushi,8.43
+2022,Sushi,5.17
+2023,Buffet,1.42
+2024,Asian,4.26
+2025,Mediterranean,6.93
+2026,Sushi,4.95
+2027,Italian,9.79
+2028,Fast Food,6.56
+2029,Asian,6.53
+2030,Asian,7.43
+2031,Sushi,9.13
+2032,Italian,9.32
+2033,Sushi,5.75
+2034,Fast Food,7.33
+2035,Mexican,2.52
+2036,Fast Food,6.84
+2037,Fast Food,2.01
+2038,Sushi,0.66
+2039,Fast Food,9.67
+2040,Buffet,7.57
+2041,Italian,3.4
+2042,Mexican,4.36
+2043,Fast Food,2.83
+2044,Mexican,8.06
+2045,Sushi,3.6
+2046,Sushi,4.86
+2047,Mediterranean,4.88
+2048,Fast Food,5.76
+2049,Buffet,1.61
+2050,Sushi,3.64
+2051,Sushi,0.56
+2052,Fast Food,2.76
+2053,Fast Food,7.54
+2054,Mexican,9.3
+2055,Fast Food,6.07
+2056,Buffet,3.88
+2057,Mediterranean,7.85
+2058,Italian,5.79
+2059,Buffet,7.36
+2060,Buffet,9.16
+2061,Fast Food,2.34
+2062,Mexican,3.46
+2063,Fast Food,9.79
+2064,Mexican,0.51
+2065,Mexican,2.11
+2066,Sushi,1.41
+2067,Fast Food,3.3
+2068,Fast Food,4.36
+2069,Sushi,6.78
+2070,Mediterranean,5.82
+2071,Fast Food,7.13
+2072,Fast Food,0.38
+2073,Buffet,9.94
+2074,Fast Food,8.76
+2075,Mexican,9.4
+2076,Fast Food,0.14
+2077,Mexican,6.95
+2078,Fast Food,8.95
+2079,Mexican,3.28
+2080,Fast Food,9.86
+2081,Mexican,8.97
+2082,Mediterranean,7.28
+2083,Fast Food,0.6
+2084,Fast Food,2.68
+2085,Asian,6.34
+2086,Mexican,8.5
+2087,Buffet,5.01
+2088,Buffet,0.66
+2089,Fast Food,3.79
+2090,Fast Food,6.5
+2091,Asian,8.47
+2092,Mexican,7.18
+2093,Buffet,0.02
+2094,Mexican,7.14
+2095,Fast Food,2.87
+2096,Fast Food,7.6
+2097,Sushi,0.88
+2098,Fast Food,1.38
+2099,Asian,5.64
+2100,Mexican,5.0
+2101,Fast Food,6.41
+2102,Fast Food,8.88
+2103,Fast Food,7.28
+2104,Fast Food,9.39
+2105,Mexican,2.91
+2106,Italian,3.8
+2107,Fast Food,4.06
+2108,Mexican,2.23
+2109,Mexican,4.96
+2110,Fast Food,5.83
+2111,Buffet,3.61
+2112,Mexican,5.31
+2113,Mediterranean,1.51
+2114,Buffet,1.91
+2115,Buffet,9.72
+2116,Asian,8.3
+2117,Fast Food,2.51
+2118,Italian,5.37
+2119,Mediterranean,4.19
+2120,Fast Food,5.2
+2121,Buffet,8.09
+2122,Italian,3.53
+2123,Fast Food,1.81
+2124,Mediterranean,5.02
+2125,Sushi,4.39
+2126,Mexican,7.98
+2127,Italian,3.53
+2128,Asian,2.38
+2129,Buffet,5.41
+2130,Fast Food,9.03
+2131,Mexican,2.98
+2132,Mediterranean,7.28
+2133,Asian,9.65
+2134,Fast Food,8.66
+2135,Italian,9.36
+2136,Asian,2.98
+2137,Fast Food,4.12
+2138,Fast Food,3.77
+2139,Buffet,2.81
+2140,Asian,1.73
+2141,Fast Food,0.56
+2142,Mexican,7.87
+2143,Buffet,3.87
+2144,Asian,6.3
+2145,Buffet,9.47
+2146,Italian,3.9
+2147,Mexican,1.71
+2148,Mediterranean,0.41
+2149,Mexican,6.34
+2150,Fast Food,5.41
+2151,Mediterranean,6.57
+2152,Mexican,1.92
+2153,Sushi,9.03
+2154,Italian,8.46
+2155,Fast Food,7.06
+2156,Fast Food,6.07
+2157,Fast Food,6.25
+2158,Asian,1.0
+2159,Fast Food,4.49
+2160,Buffet,0.28
+2161,Buffet,1.75
+2162,Fast Food,2.03
+2163,Fast Food,5.76
+2164,Mediterranean,2.52
+2165,Mexican,4.8
+2166,Asian,4.91
+2167,Fast Food,6.9
+2168,Fast Food,0.21
+2169,Asian,7.12
+2170,Asian,3.05
+2171,Italian,4.09
+2172,Asian,4.47
+2173,Fast Food,1.09
+2174,Asian,3.75
+2175,Mexican,4.4
+2176,Sushi,5.35
+2177,Italian,9.15
+2178,Fast Food,9.03
+2179,Mediterranean,8.47
+2180,Sushi,6.83
+2181,Fast Food,9.38
+2182,Buffet,5.21
+2183,Mediterranean,4.9
+2184,Buffet,6.69
+2185,Fast Food,5.13
+2186,Sushi,7.7
+2187,Fast Food,3.0
+2188,Buffet,7.86
+2189,Mexican,4.34
+2190,Fast Food,8.72
+2191,Buffet,9.1
+2192,Mexican,1.44
+2193,Sushi,3.4
+2194,Italian,5.29
+2195,Mediterranean,7.76
+2196,Sushi,3.37
+2197,Fast Food,1.89
+2198,Buffet,5.89
+2199,Sushi,9.64
+2200,Mexican,6.99
+2201,Italian,8.61
+2202,Mexican,3.1
+2203,Fast Food,9.08
+2204,Buffet,5.45
+2205,Italian,9.1
+2206,Italian,2.07
+2207,Mexican,8.23
+2208,Italian,9.89
+2209,Fast Food,7.3
+2210,Italian,3.04
+2211,Asian,1.24
+2212,Fast Food,2.59
+2213,Mexican,1.47
+2214,Buffet,4.09
+2215,Mexican,2.49
+2216,Asian,1.67
+2217,Buffet,9.68
+2218,Buffet,3.27
+2219,Mediterranean,5.26
+2220,Mexican,5.85
+2221,Fast Food,0.92
+2222,Italian,3.99
+2223,Asian,2.05
+2224,Sushi,8.81
+2225,Fast Food,7.47
+2226,Fast Food,1.39
+2227,Mediterranean,1.3
+2228,Fast Food,5.02
+2229,Mexican,8.51
+2230,Buffet,2.13
+2231,Buffet,6.59
+2232,Italian,0.43
+2233,Mediterranean,3.58
+2234,Buffet,2.7
+2235,Asian,9.21
+2236,Fast Food,2.69
+2237,Asian,8.98
+2238,Asian,4.38
+2239,Mexican,1.08
+2240,Mexican,6.06
+2241,Asian,7.38
+2242,Fast Food,2.06
+2243,Mexican,7.88
+2244,Italian,6.43
+2245,Buffet,9.94
+2246,Asian,3.25
+2247,Sushi,1.97
+2248,Fast Food,3.58
+2249,Fast Food,4.15
+2250,Fast Food,0.38
+2251,Mexican,7.79
+2252,Fast Food,7.08
+2253,Italian,4.92
+2254,Buffet,5.08
+2255,Italian,8.78
+2256,Sushi,4.18
+2257,Asian,2.73
+2258,Fast Food,0.76
+2259,Buffet,0.19
+2260,Mediterranean,0.78
+2261,Buffet,8.02
+2262,Fast Food,4.43
+2263,Asian,4.4
+2264,Buffet,4.49
+2265,Sushi,8.6
+2266,Italian,8.7
+2267,Italian,0.38
+2268,Fast Food,7.89
+2269,Sushi,3.98
+2270,Fast Food,4.47
+2271,Italian,2.82
+2272,Buffet,9.44
+2273,Mediterranean,0.63
+2274,Fast Food,5.19
+2275,Fast Food,4.4
+2276,Mediterranean,3.78
+2277,Italian,2.63
+2278,Mexican,4.96
+2279,Mexican,6.76
+2280,Sushi,1.96
+2281,Sushi,1.79
+2282,Asian,7.24
+2283,Mexican,1.79
+2284,Fast Food,6.44
+2285,Fast Food,1.18
+2286,Mediterranean,2.55
+2287,Buffet,4.11
+2288,Asian,3.97
+2289,Fast Food,6.09
+2290,Mexican,5.61
+2291,Fast Food,5.7
+2292,Fast Food,6.59
+2293,Mediterranean,0.82
+2294,Fast Food,0.66
+2295,Sushi,3.33
+2296,Fast Food,5.98
+2297,Fast Food,2.96
+2298,Sushi,3.76
+2299,Italian,0.05
+2300,Buffet,3.13
+2301,Fast Food,8.1
+2302,Asian,2.48
+2303,Buffet,0.64
+2304,Mexican,8.8
+2305,Sushi,1.57
+2306,Sushi,3.17
+2307,Fast Food,0.24
+2308,Asian,1.67
+2309,Sushi,1.32
+2310,Fast Food,1.43
+2311,Mediterranean,3.46
+2312,Fast Food,0.21
+2313,Sushi,8.18
+2314,Sushi,7.7
+2315,Fast Food,7.42
+2316,Fast Food,8.29
+2317,Mediterranean,8.99
+2318,Fast Food,3.59
+2319,Asian,5.36
+2320,Mediterranean,1.17
+2321,Asian,9.5
+2322,Fast Food,3.0
+2323,Mediterranean,4.54
+2324,Buffet,4.03
+2325,Buffet,7.74
+2326,Fast Food,5.39
+2327,Mediterranean,2.14
+2328,Mediterranean,9.8
+2329,Asian,1.41
+2330,Buffet,4.35
+2331,Mediterranean,3.04
+2332,Mediterranean,3.15
+2333,Buffet,4.02
+2334,Buffet,9.33
+2335,Asian,6.17
+2336,Italian,6.35
+2337,Fast Food,4.1
+2338,Fast Food,4.5
+2339,Fast Food,1.46
+2340,Asian,1.42
+2341,Fast Food,5.52
+2342,Fast Food,5.31
+2343,Fast Food,4.11
+2344,Fast Food,1.59
+2345,Fast Food,4.56
+2346,Sushi,6.72
+2347,Buffet,7.81
+2348,Asian,9.91
+2349,Asian,9.62
+2350,Mediterranean,2.19
+2351,Asian,6.45
+2352,Mexican,5.8
+2353,Asian,6.4
+2354,Buffet,8.63
+2355,Mexican,3.32
+2356,Italian,3.32
+2357,Italian,3.35
+2358,Sushi,0.42
+2359,Sushi,3.68
+2360,Asian,2.16
+2361,Fast Food,0.62
+2362,Buffet,2.8
+2363,Italian,9.58
+2364,Buffet,1.37
+2365,Mexican,5.34
+2366,Sushi,7.02
+2367,Mediterranean,4.39
+2368,Fast Food,0.06
+2369,Italian,9.13
+2370,Fast Food,2.95
+2371,Mexican,1.9
+2372,Fast Food,4.26
+2373,Italian,4.75
+2374,Fast Food,7.06
+2375,Italian,2.44
+2376,Sushi,4.71
+2377,Italian,3.47
+2378,Italian,5.99
+2379,Buffet,0.09
+2380,Sushi,2.51
+2381,Sushi,0.23
+2382,Buffet,7.14
+2383,Italian,1.13
+2384,Buffet,5.95
+2385,Asian,7.88
+2386,Mediterranean,2.48
+2387,Fast Food,6.83
+2388,Sushi,0.08
+2389,Asian,3.96
+2390,Mexican,3.85
+2391,Asian,8.63
+2392,Italian,3.01
+2393,Mexican,6.36
+2394,Asian,6.68
+2395,Buffet,8.98
+2396,Mediterranean,8.9
+2397,Sushi,0.73
+2398,Buffet,2.2
+2399,Fast Food,6.37
+2400,Fast Food,2.71
+2401,Italian,3.02
+2402,Fast Food,0.91
+2403,Fast Food,0.13
+2404,Sushi,6.45
+2405,Mexican,2.43
+2406,Fast Food,3.73
+2407,Buffet,6.27
+2408,Fast Food,9.16
+2409,Italian,1.44
+2410,Mexican,5.7
+2411,Mediterranean,0.54
+2412,Sushi,7.22
+2413,Mediterranean,2.78
+2414,Italian,1.74
+2415,Fast Food,8.02
+2416,Mexican,1.39
+2417,Mediterranean,7.55
+2418,Fast Food,7.84
+2419,Fast Food,0.24
+2420,Mediterranean,7.52
+2421,Buffet,6.04
+2422,Mexican,2.92
+2423,Buffet,3.19
+2424,Fast Food,3.93
+2425,Sushi,8.53
+2426,Mediterranean,0.14
+2427,Buffet,5.81
+2428,Italian,1.19
+2429,Sushi,9.56
+2430,Asian,0.32
+2431,Asian,2.3
+2432,Asian,0.51
+2433,Sushi,9.78
+2434,Asian,7.47
+2435,Italian,6.17
+2436,Italian,9.58
+2437,Sushi,3.72
+2438,Fast Food,5.45
+2439,Mexican,2.27
+2440,Italian,6.8
+2441,Sushi,0.53
+2442,Fast Food,7.97
+2443,Sushi,2.63
+2444,Mexican,0.59
+2445,Italian,2.39
+2446,Asian,5.93
+2447,Fast Food,4.57
+2448,Asian,4.23
+2449,Asian,8.62
+2450,Mexican,5.63
+2451,Fast Food,1.64
+2452,Mediterranean,7.66
+2453,Mediterranean,5.93
+2454,Italian,1.48
+2455,Italian,7.53
+2456,Asian,7.75
+2457,Buffet,2.81
+2458,Sushi,0.98
+2459,Mediterranean,2.72
+2460,Mexican,8.37
+2461,Asian,3.91
+2462,Fast Food,0.81
+2463,Mexican,7.73
+2464,Mediterranean,0.24
+2465,Mediterranean,3.84
+2466,Italian,8.59
+2467,Fast Food,8.63
+2468,Buffet,2.16
+2469,Sushi,7.31
+2470,Mediterranean,0.24
+2471,Italian,4.55
+2472,Buffet,8.25
+2473,Italian,8.84
+2474,Italian,5.7
+2475,Fast Food,6.87
+2476,Buffet,5.39
+2477,Mediterranean,8.6
+2478,Mexican,9.81
+2479,Asian,1.05
+2480,Fast Food,2.52
+2481,Asian,7.93
+2482,Mediterranean,1.96
+2483,Fast Food,8.92
+2484,Buffet,0.74
+2485,Mexican,2.72
+2486,Buffet,6.93
+2487,Fast Food,4.21
+2488,Mediterranean,4.58
+2489,Sushi,3.88
+2490,Asian,2.87
+2491,Sushi,3.42
+2492,Fast Food,0.05
+2493,Mediterranean,5.21
+2494,Italian,5.31
+2495,Mediterranean,0.64
+2496,Fast Food,7.58
+2497,Mediterranean,2.54
+2498,Fast Food,6.41
+2499,Buffet,5.35
+2500,Italian,7.19
+2501,Mediterranean,2.16
+2502,Asian,3.66
+2503,Asian,9.85
+2504,Mexican,1.6
+2505,Buffet,1.29
+2506,Mexican,8.57
+2507,Asian,1.71
+2508,Fast Food,6.37
+2509,Italian,6.37
+2510,Asian,3.75
+2511,Fast Food,3.59
+2512,Mediterranean,6.85
+2513,Fast Food,6.7
+2514,Mediterranean,0.15
+2515,Fast Food,3.84
+2516,Sushi,1.09
+2517,Buffet,8.43
+2518,Buffet,7.27
+2519,Sushi,5.73
+2520,Italian,3.59
+2521,Asian,9.31
+2522,Mexican,6.29
+2523,Sushi,0.75
+2524,Mediterranean,7.62
+2525,Fast Food,2.06
+2526,Asian,7.77
+2527,Asian,2.01
+2528,Italian,4.63
+2529,Asian,8.01
+2530,Asian,2.15
+2531,Italian,5.73
+2532,Fast Food,0.16
+2533,Fast Food,0.31
+2534,Fast Food,3.68
+2535,Asian,3.11
+2536,Sushi,7.97
+2537,Buffet,8.29
+2538,Mexican,1.73
+2539,Asian,0.11
+2540,Fast Food,0.92
+2541,Fast Food,8.32
+2542,Fast Food,7.76
+2543,Fast Food,4.83
+2544,Mediterranean,7.7
+2545,Asian,8.28
+2546,Asian,4.3
+2547,Asian,8.29
+2548,Mexican,1.24
+2549,Buffet,0.63
+2550,Sushi,3.51
+2551,Buffet,7.43
+2552,Mediterranean,0.84
+2553,Italian,3.96
+2554,Sushi,0.05
+2555,Mexican,1.33
+2556,Mexican,6.64
+2557,Fast Food,3.9
+2558,Sushi,3.08
+2559,Italian,1.22
+2560,Fast Food,9.64
+2561,Fast Food,6.58
+2562,Mediterranean,6.02
+2563,Sushi,4.04
+2564,Buffet,4.53
+2565,Sushi,0.16
+2566,Asian,4.94
+2567,Sushi,8.28
+2568,Buffet,5.83
+2569,Fast Food,5.25
+2570,Mediterranean,3.11
+2571,Mexican,8.74
+2572,Buffet,1.91
+2573,Sushi,6.58
+2574,Mediterranean,8.94
+2575,Mediterranean,2.0
+2576,Mexican,7.75
+2577,Fast Food,4.69
+2578,Fast Food,1.25
+2579,Sushi,1.88
+2580,Italian,9.19
+2581,Fast Food,3.45
+2582,Asian,1.61
+2583,Mediterranean,6.6
+2584,Fast Food,6.63
+2585,Mediterranean,4.87
+2586,Italian,4.54
+2587,Italian,7.2
+2588,Mediterranean,8.34
+2589,Mediterranean,8.32
+2590,Mediterranean,0.94
+2591,Sushi,4.86
+2592,Italian,5.97
+2593,Mediterranean,7.52
+2594,Fast Food,9.03
+2595,Buffet,0.53
+2596,Mediterranean,4.14
+2597,Fast Food,4.53
+2598,Buffet,3.36
+2599,Mediterranean,8.78
+2600,Sushi,1.28
+2601,Italian,8.51
+2602,Fast Food,4.91
+2603,Asian,6.25
+2604,Italian,2.7
+2605,Asian,6.72
+2606,Fast Food,5.99
+2607,Fast Food,2.16
+2608,Fast Food,2.8
+2609,Fast Food,0.7
+2610,Italian,9.68
+2611,Asian,0.22
+2612,Sushi,7.21
+2613,Mexican,7.9
+2614,Fast Food,5.68
+2615,Fast Food,7.47
+2616,Asian,4.26
+2617,Sushi,0.81
+2618,Mexican,6.83
+2619,Mediterranean,4.73
+2620,Asian,4.71
+2621,Fast Food,2.43
+2622,Fast Food,5.29
+2623,Asian,5.51
+2624,Italian,2.48
+2625,Asian,5.69
+2626,Fast Food,0.43
+2627,Sushi,2.78
+2628,Asian,5.49
+2629,Mediterranean,7.43
+2630,Fast Food,6.93
+2631,Sushi,5.72
+2632,Sushi,4.67
+2633,Fast Food,4.15
+2634,Fast Food,0.01
+2635,Mexican,0.2
+2636,Italian,5.01
+2637,Fast Food,2.83
+2638,Italian,7.21
+2639,Asian,5.64
+2640,Italian,9.44
+2641,Sushi,0.58
+2642,Fast Food,5.93
+2643,Mexican,4.77
+2644,Fast Food,4.54
+2645,Mexican,7.93
+2646,Fast Food,0.23
+2647,Buffet,0.01
+2648,Mexican,0.52
+2649,Fast Food,2.23
+2650,Italian,2.61
+2651,Fast Food,6.0
+2652,Fast Food,9.16
+2653,Asian,8.05
+2654,Mediterranean,2.78
+2655,Fast Food,3.86
+2656,Fast Food,7.33
+2657,Fast Food,8.72
+2658,Buffet,8.18
+2659,Fast Food,1.94
+2660,Mexican,4.7
+2661,Mexican,7.23
+2662,Asian,7.34
+2663,Sushi,5.57
+2664,Italian,5.9
+2665,Buffet,9.41
+2666,Fast Food,7.79
+2667,Fast Food,6.12
+2668,Sushi,7.1
+2669,Mediterranean,7.45
+2670,Italian,5.78
+2671,Buffet,6.55
+2672,Fast Food,3.44
+2673,Italian,3.7
+2674,Italian,6.82
+2675,Buffet,5.83
+2676,Mexican,1.42
+2677,Sushi,8.12
+2678,Fast Food,3.27
+2679,Sushi,0.78
+2680,Italian,4.18
+2681,Sushi,8.26
+2682,Sushi,4.34
+2683,Buffet,5.3
+2684,Fast Food,0.72
+2685,Sushi,5.45
+2686,Italian,5.29
+2687,Fast Food,9.6
+2688,Italian,0.02
+2689,Mexican,7.13
+2690,Fast Food,2.42
+2691,Italian,2.26
+2692,Mexican,7.49
+2693,Mexican,5.36
+2694,Buffet,4.45
+2695,Mexican,5.37
+2696,Sushi,6.15
+2697,Mexican,2.1
+2698,Buffet,6.78
+2699,Fast Food,0.78
+2700,Fast Food,1.46
+2701,Italian,6.92
+2702,Sushi,4.03
+2703,Buffet,1.41
+2704,Fast Food,5.65
+2705,Fast Food,7.2
+2706,Fast Food,4.28
+2707,Sushi,8.98
+2708,Mediterranean,1.43
+2709,Italian,1.85
+2710,Mexican,5.34
+2711,Asian,4.36
+2712,Italian,6.72
+2713,Italian,9.32
+2714,Fast Food,9.77
+2715,Sushi,6.92
+2716,Fast Food,7.85
+2717,Buffet,3.63
+2718,Mexican,5.38
+2719,Fast Food,9.67
+2720,Sushi,2.62
+2721,Buffet,0.1
+2722,Mexican,3.25
+2723,Mexican,9.19
+2724,Fast Food,4.75
+2725,Sushi,6.99
+2726,Mexican,8.01
+2727,Italian,3.45
+2728,Asian,4.92
+2729,Fast Food,5.02
+2730,Mediterranean,7.15
+2731,Italian,4.56
+2732,Mediterranean,7.75
+2733,Italian,6.17
+2734,Italian,9.31
+2735,Asian,6.04
+2736,Italian,7.35
+2737,Mexican,6.49
+2738,Asian,0.98
+2739,Mediterranean,3.87
+2740,Sushi,1.61
+2741,Fast Food,5.23
+2742,Mexican,2.69
+2743,Sushi,8.61
+2744,Sushi,7.67
+2745,Mediterranean,0.19
+2746,Sushi,4.32
+2747,Italian,5.93
+2748,Italian,9.53
+2749,Asian,9.65
+2750,Sushi,7.04
+2751,Asian,9.09
+2752,Mexican,0.94
+2753,Fast Food,9.08
+2754,Sushi,6.44
+2755,Asian,1.0
+2756,Italian,3.43
+2757,Fast Food,5.23
+2758,Italian,8.41
+2759,Mediterranean,3.94
+2760,Mediterranean,4.63
+2761,Fast Food,9.0
+2762,Fast Food,0.46
+2763,Mexican,2.93
+2764,Mediterranean,2.64
+2765,Sushi,6.54
+2766,Mexican,5.48
+2767,Fast Food,7.05
+2768,Mexican,7.86
+2769,Italian,9.71
+2770,Asian,3.44
+2771,Fast Food,2.59
+2772,Sushi,6.13
+2773,Italian,0.59
+2774,Italian,5.94
+2775,Asian,1.36
+2776,Mediterranean,8.3
+2777,Asian,6.77
+2778,Buffet,8.16
+2779,Buffet,7.24
+2780,Italian,3.56
+2781,Asian,6.72
+2782,Buffet,3.7
+2783,Italian,1.0
+2784,Italian,7.12
+2785,Fast Food,6.91
+2786,Italian,2.84
+2787,Asian,1.16
+2788,Sushi,1.19
+2789,Sushi,2.84
+2790,Mexican,2.45
+2791,Buffet,2.78
+2792,Asian,7.53
+2793,Asian,9.98
+2794,Italian,2.46
+2795,Sushi,2.94
+2796,Mexican,5.79
+2797,Mexican,4.77
+2798,Buffet,1.92
+2799,Italian,4.05
+2800,Fast Food,2.47
+2801,Buffet,7.92
+2802,Italian,3.52
+2803,Mexican,1.6
+2804,Mexican,9.96
+2805,Italian,2.6
+2806,Mediterranean,2.53
+2807,Mexican,3.04
+2808,Mediterranean,3.26
+2809,Mexican,3.8
+2810,Buffet,1.47
+2811,Mediterranean,3.38
+2812,Mediterranean,9.91
+2813,Mediterranean,1.04
+2814,Mexican,4.64
+2815,Buffet,7.82
+2816,Fast Food,6.31
+2817,Italian,0.16
+2818,Buffet,7.0
+2819,Italian,7.04
+2820,Fast Food,8.23
+2821,Sushi,8.81
+2822,Sushi,6.84
+2823,Mexican,7.98
+2824,Fast Food,8.59
+2825,Asian,6.45
+2826,Mexican,6.4
+2827,Asian,2.65
+2828,Fast Food,5.41
+2829,Asian,8.57
+2830,Asian,3.95
+2831,Mexican,3.54
+2832,Fast Food,8.63
+2833,Fast Food,2.82
+2834,Buffet,2.55
+2835,Asian,9.26
+2836,Asian,6.58
+2837,Italian,2.99
+2838,Fast Food,5.41
+2839,Mexican,8.57
+2840,Fast Food,8.65
+2841,Fast Food,0.97
+2842,Buffet,0.14
+2843,Italian,7.87
+2844,Mediterranean,3.94
+2845,Buffet,3.09
+2846,Mexican,4.86
+2847,Mediterranean,8.8
+2848,Asian,2.52
+2849,Buffet,9.79
+2850,Mexican,0.3
+2851,Mediterranean,8.09
+2852,Fast Food,2.89
+2853,Fast Food,9.25
+2854,Mexican,3.73
+2855,Asian,0.92
+2856,Asian,8.39
+2857,Asian,5.98
+2858,Fast Food,3.3
+2859,Mexican,8.85
+2860,Fast Food,6.89
+2861,Fast Food,2.66
+2862,Sushi,0.88
+2863,Mediterranean,5.64
+2864,Mediterranean,0.57
+2865,Fast Food,5.48
+2866,Fast Food,3.34
+2867,Sushi,8.86
+2868,Fast Food,6.43
+2869,Fast Food,6.03
+2870,Mediterranean,3.72
+2871,Fast Food,7.92
+2872,Fast Food,9.4
+2873,Fast Food,3.03
+2874,Fast Food,4.61
+2875,Fast Food,7.5
+2876,Mexican,5.6
+2877,Fast Food,5.14
+2878,Fast Food,8.95
+2879,Italian,1.64
+2880,Mexican,1.25
+2881,Asian,9.89
+2882,Fast Food,5.26
+2883,Sushi,7.25
+2884,Italian,1.8
+2885,Buffet,4.27
+2886,Fast Food,2.46
+2887,Buffet,5.07
+2888,Mediterranean,0.79
+2889,Asian,8.37
+2890,Fast Food,6.73
+2891,Fast Food,0.23
+2892,Fast Food,9.8
+2893,Fast Food,5.78
+2894,Mediterranean,6.78
+2895,Buffet,9.82
+2896,Sushi,0.81
+2897,Buffet,2.52
+2898,Sushi,7.41
+2899,Fast Food,6.85
+2900,Asian,6.33
+2901,Asian,6.46
+2902,Sushi,3.03
+2903,Fast Food,3.1
+2904,Mediterranean,4.78
+2905,Buffet,7.32
+2906,Asian,3.64
+2907,Italian,7.25
+2908,Fast Food,6.27
+2909,Mexican,4.6
+2910,Sushi,5.58
+2911,Mexican,3.49
+2912,Sushi,8.74
+2913,Italian,4.38
+2914,Buffet,9.69
+2915,Sushi,9.91
+2916,Mediterranean,6.24
+2917,Mediterranean,4.22
+2918,Fast Food,0.94
+2919,Mexican,5.04
+2920,Mexican,8.0
+2921,Buffet,3.46
+2922,Buffet,5.92
+2923,Buffet,7.73
+2924,Mexican,1.42
+2925,Sushi,0.29
+2926,Mexican,8.95
+2927,Buffet,2.67
+2928,Mexican,9.3
+2929,Mediterranean,8.0
+2930,Mediterranean,6.23
+2931,Sushi,0.9
+2932,Buffet,4.42
+2933,Fast Food,2.1
+2934,Asian,0.74
+2935,Italian,2.36
+2936,Mediterranean,4.59
+2937,Mexican,7.58
+2938,Sushi,7.46
+2939,Fast Food,8.6
+2940,Fast Food,7.31
+2941,Mexican,2.88
+2942,Mexican,7.86
+2943,Italian,8.13
+2944,Mexican,8.44
+2945,Sushi,2.5
+2946,Mediterranean,0.34
+2947,Mediterranean,5.79
+2948,Asian,1.19
+2949,Fast Food,6.43
+2950,Mexican,9.46
+2951,Fast Food,2.5
+2952,Asian,6.49
+2953,Asian,6.99
+2954,Fast Food,5.47
+2955,Buffet,0.99
+2956,Buffet,7.56
+2957,Mexican,7.04
+2958,Mediterranean,3.62
+2959,Mediterranean,4.07
+2960,Sushi,9.87
+2961,Fast Food,1.71
+2962,Buffet,0.26
+2963,Mexican,6.56
+2964,Sushi,2.65
+2965,Fast Food,2.94
+2966,Italian,6.17
+2967,Sushi,2.73
+2968,Fast Food,7.83
+2969,Asian,6.33
+2970,Italian,3.8
+2971,Asian,3.76
+2972,Mediterranean,4.79
+2973,Mediterranean,2.12
+2974,Asian,8.23
+2975,Fast Food,7.91
+2976,Asian,7.76
+2977,Buffet,0.93
+2978,Mexican,2.83
+2979,Sushi,0.94
+2980,Mexican,0.15
+2981,Fast Food,0.12
+2982,Buffet,2.51
+2983,Italian,1.64
+2984,Fast Food,5.24
+2985,Fast Food,4.34
+2986,Italian,4.94
+2987,Fast Food,1.75
+2988,Mediterranean,4.88
+2989,Asian,5.51
+2990,Fast Food,0.49
+2991,Mexican,8.61
+2992,Sushi,0.39
+2993,Fast Food,3.2
+2994,Asian,0.07
+2995,Italian,6.71
+2996,Fast Food,7.76
+2997,Italian,8.82
+2998,Sushi,3.53
+2999,Sushi,1.41
+3000,Mexican,8.63
