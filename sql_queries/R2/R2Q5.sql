@@ -1,6 +1,13 @@
+-- This query is made of two sub queries; one outer one and one inner one. The query works in
+-- the following way: it calculates the sum of costs for each plane in one subquery. Then it counts
+-- how many times each piece has been replaced per plane. It also calculates the total price of
+-- replacement for each piece and compares it to the total cost by joining the sub query as a table. Finally,
+-- the outer subquery uses the result of the operation betwen two aggregate functions
+-- as a condition without having to select it and show it in the final result.
+
 USE LSAIR;
 
-SELECT planeID, name, num_pieces 
+SELECT planeID, name, num_pieces
 FROM(
 	SELECT p.planeID, pi.name, COUNT(pi.pieceID) as num_pieces, pi.cost * COUNT(pi.pieceID) As piecesPrice, Price.total - (pi.cost * COUNT(pi.pieceID)) As sma
 	FROM PLANE As p

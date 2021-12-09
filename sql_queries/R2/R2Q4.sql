@@ -1,3 +1,6 @@
+-- This query retrieves the longest route information using the
+-- MAX function.
+
 USE LSAIR;
 
 SELECT A.name, A.airlineID, C.name, MAX(R.time) AS "longest route duration"
@@ -14,5 +17,3 @@ JOIN COUNTRY AS Co2 ON Co2.countryID = C2.countryID
 WHERE Co.countryID <> "Spain" OR Co2.countryID <> "Spain" AND A.active = "Y"
 GROUP BY A.airlineID
 ORDER BY MAX(R.time) DESC;
-
-

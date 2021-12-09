@@ -1,6 +1,10 @@
+-- This query uses a case statement to attach the correct string according to the value of the grade. It
+-- also uses a subquery in orer to select the maintenances where less than 10 pieces have been replaced.
+-- The average for each grade range was calculated using the AVG function.
+
 USE LSAIR;
 
-SELECT 
+SELECT
 CASE
 WHEN M.grade BETWEEN 0 AND 1 THEN '0-1'
 WHEN M.grade BETWEEN 1 AND 2 THEN '1-2'
@@ -23,4 +27,3 @@ JOIN(
 	HAVING COUNT(PM.pieceID) < 10
     ) AS P1 ON P1.maintenanceID = Ma.maintenanceID
 GROUP BY grade_range;
-

@@ -1,3 +1,6 @@
+-- This query uses subqueries in order to compare the results of two aggregate
+-- functions. It calculates the average distance.
+
 USE LSAIR;
 
 SELECT A.airportID, C.countryID, P1.AvgDistCity as "average distance"
@@ -17,5 +20,3 @@ JOIN(
 	GROUP BY C.countryID
     ) AS P2 ON P2.countryID = C.countryID
     WHERE P1.AvgDistCity > P2.AvgDistCountry;
-
-
