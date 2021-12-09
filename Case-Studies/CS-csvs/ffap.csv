@@ -1,0 +1,458 @@
+flightID,pilotID,attendantID,depID,depName,desID,desName,date
+5699,131605,147374,2331,El Plumerillo Airport,2518,Comodoro Arturo Merino Benítez International Airport,1995-01-16
+11415,131605,141322,5625,George Bush Intercontinental Houston Airport,5942,John Wayne Airport-Orange County Airport,1989-02-15
+11415,131605,143765,5625,George Bush Intercontinental Houston Airport,5942,John Wayne Airport-Orange County Airport,1989-02-15
+18999,131605,140424,5596,Ronald Reagan Washington National Airport,5655,Jackson-Medgar Wiley Evers International Airport,1996-09-13
+18999,131605,142520,5596,Ronald Reagan Washington National Airport,5655,Jackson-Medgar Wiley Evers International Airport,1996-09-13
+18999,131605,146884,5596,Ronald Reagan Washington National Airport,5655,Jackson-Medgar Wiley Evers International Airport,1996-09-13
+6980,131644,139903,1486,Il Caravaggio International Airport,660,Kraków John Paul II International Airport,2015-03-21
+6980,131644,142194,1486,Il Caravaggio International Airport,660,Kraków John Paul II International Airport,2015-03-21
+6980,131644,143776,1486,Il Caravaggio International Airport,660,Kraków John Paul II International Airport,2015-03-21
+6980,131644,146274,1486,Il Caravaggio International Airport,660,Kraków John Paul II International Airport,2015-03-21
+13365,131644,146449,1596,Humberto Delgado Airport (Lisbon Portela Airport),1634,Zürich Airport,1997-10-03
+13365,131644,146460,1596,Humberto Delgado Airport (Lisbon Portela Airport),1634,Zürich Airport,1997-10-03
+898,131667,147485,2265,Jeju International Airport,5449,Beijing Capital International Airport,1964-06-04
+10742,131667,143520,1351,Paris-Orly Airport,4183,Ain Arnat Airport,1982-07-12
+18096,131667,140120,1199,Menorca Airport,341,Cologne Bonn Airport,1992-10-16
+18096,131667,143232,1199,Menorca Airport,341,Cologne Bonn Airport,1992-10-16
+18096,131667,144705,1199,Menorca Airport,341,Cologne Bonn Airport,1992-10-16
+18096,131667,147592,1199,Menorca Airport,341,Cologne Bonn Airport,1992-10-16
+18794,131667,140466,5110,Hamad International Airport,3158,Perth International Airport,1993-02-20
+10345,131755,147035,6713,Zhongwei Shapotou Airport,5449,Beijing Capital International Airport,1997-05-10
+12125,131755,143687,5473,Liuting Airport,5454,Changsha Huanghua International Airport,1999-11-21
+14297,131755,146660,2179,Taiwan Taoyuan International Airport,2238,Takamatsu Airport,2001-06-15
+20748,131755,141246,2799,Khrabrovo Airport,3979,Belgorod International Airport,1991-10-03
+20748,131755,144226,2799,Khrabrovo Airport,3979,Belgorod International Airport,1991-10-03
+20748,131755,146795,2799,Khrabrovo Airport,3979,Belgorod International Airport,1991-10-03
+20748,131755,146818,2799,Khrabrovo Airport,3979,Belgorod International Airport,1991-10-03
+2004,131863,142663,6264,Baita International Airport,5453,Guangzhou Baiyun International Airport,2016-03-19
+2004,131863,144689,6264,Baita International Airport,5453,Guangzhou Baiyun International Airport,2016-03-19
+2004,131863,146160,6264,Baita International Airport,5453,Guangzhou Baiyun International Airport,2016-03-19
+2004,131863,147289,6264,Baita International Airport,5453,Guangzhou Baiyun International Airport,2016-03-19
+11875,131863,147601,1933,Maré Airport,1932,Nouméa Magenta Airport,2006-12-13
+18791,131863,143646,1332,Paris Beauvais Tillé Airport,1505,Trieste–Friuli Venezia Giulia Airport,2006-07-23
+18791,131863,145922,1332,Paris Beauvais Tillé Airport,1505,Trieste–Friuli Venezia Giulia Airport,2006-07-23
+18791,131863,146267,1332,Paris Beauvais Tillé Airport,1505,Trieste–Friuli Venezia Giulia Airport,2006-07-23
+18791,131863,147064,1332,Paris Beauvais Tillé Airport,1505,Trieste–Friuli Venezia Giulia Airport,2006-07-23
+18968,131863,145735,2757,Piarco International Airport,2756,Tobago-Crown Point Airport,2012-08-19
+5784,131995,141198,5827,Philadelphia International Airport,5748,Austin Bergstrom International Airport,2019-12-13
+5784,131995,142986,5827,Philadelphia International Airport,5748,Austin Bergstrom International Airport,2019-12-13
+5784,131995,146882,5827,Philadelphia International Airport,5748,Austin Bergstrom International Airport,2019-12-13
+14838,131995,145110,1609,Cluj-Napoca International Airport,343,Munich Airport,2017-11-04
+13887,132008,139907,2571,El Eden Airport,5608,Fort Lauderdale Hollywood International Airport,1997-01-01
+18904,132008,144133,192,Lester B. Pearson International Airport,343,Munich Airport,1997-08-21
+18904,132008,144624,192,Lester B. Pearson International Airport,343,Munich Airport,1997-08-21
+18904,132008,147086,192,Lester B. Pearson International Airport,343,Munich Airport,1997-08-21
+19559,132008,141621,1638,Esenboğa International Airport,4916,Iğdır Airport,2007-02-04
+19559,132008,142623,1638,Esenboğa International Airport,4916,Iğdır Airport,2007-02-04
+19559,132008,146794,1638,Esenboğa International Airport,4916,Iğdır Airport,2007-02-04
+4350,132017,143306,5653,Lovell Field,5596,Ronald Reagan Washington National Airport,2000-12-25
+4350,132017,147008,5653,Lovell Field,5596,Ronald Reagan Washington National Airport,2000-12-25
+4350,132017,147314,5653,Lovell Field,5596,Ronald Reagan Washington National Airport,2000-12-25
+11665,132017,142233,300,Brussels Airport,1594,Francisco de Sá Carneiro Airport,2013-09-05
+11665,132017,147509,300,Brussels Airport,1594,Francisco de Sá Carneiro Airport,2013-09-05
+15820,132017,139780,2783,Vladivostok International Airport,2776,Ignatyevo Airport,2000-01-28
+15820,132017,140077,2783,Vladivostok International Airport,2776,Ignatyevo Airport,2000-01-28
+15820,132017,144050,2783,Vladivostok International Airport,2776,Ignatyevo Airport,2000-01-28
+17028,132017,140010,2196,Wakkanai Airport,2258,Tokyo Haneda International Airport,2016-06-27
+17028,132017,140194,2196,Wakkanai Airport,2258,Tokyo Haneda International Airport,2016-06-27
+17442,132017,143485,344,Nuremberg Airport,1644,Antalya International Airport,2000-07-30
+17442,132017,145236,344,Nuremberg Airport,1644,Antalya International Airport,2000-07-30
+19174,132017,140963,1635,St Gallen Altenrhein Airport,1572,Vienna International Airport,2003-02-03
+19174,132017,146259,1635,St Gallen Altenrhein Airport,1572,Vienna International Airport,2003-02-03
+19174,132017,146881,1635,St Gallen Altenrhein Airport,1572,Vienna International Airport,2003-02-03
+19882,132017,143932,5721,Tampa International Airport,5900,Bradley International Airport,2001-12-11
+19882,132017,144068,5721,Tampa International Airport,5900,Bradley International Airport,2001-12-11
+19882,132017,144412,5721,Tampa International Airport,5900,Bradley International Airport,2001-12-11
+19882,132017,145364,5721,Tampa International Airport,5900,Bradley International Airport,2001-12-11
+19882,132017,147119,5721,Tampa International Airport,5900,Bradley International Airport,2001-12-11
+10302,132023,144629,5625,George Bush Intercontinental Houston Airport,5868,Southwest Florida International Airport,2018-03-13
+15426,132023,142678,3238,Darwin International Airport,3125,Singapore Changi Airport,2006-01-07
+15426,132023,146728,3238,Darwin International Airport,3125,Singapore Changi Airport,2006-01-07
+15756,132023,147122,2130,Quetta International Airport,3825,Turbat International Airport,2009-10-17
+5670,132082,147069,3932,Ugolny Airport,2777,Khabarovsk-Novy Airport,2015-01-26
+5670,132082,147106,3932,Ugolny Airport,2777,Khabarovsk-Novy Airport,2015-01-26
+5670,132082,147491,3932,Ugolny Airport,2777,Khabarovsk-Novy Airport,2015-01-26
+16287,132082,140687,5524,General Edward Lawrence Logan International Airport,1515,Leonardo da Vinci–Fiumicino Airport,2013-06-30
+16287,132082,143249,5524,General Edward Lawrence Logan International Airport,1515,Leonardo da Vinci–Fiumicino Airport,2013-06-30
+16287,132082,144790,5524,General Edward Lawrence Logan International Airport,1515,Leonardo da Vinci–Fiumicino Airport,2013-06-30
+16287,132082,147409,5524,General Edward Lawrence Logan International Airport,1515,Leonardo da Vinci–Fiumicino Airport,2013-06-30
+19785,132082,142305,1176,Split Airport,344,Nuremberg Airport,2014-09-21
+19785,132082,145469,1176,Split Airport,344,Nuremberg Airport,2014-09-21
+19785,132082,147285,1176,Split Airport,344,Nuremberg Airport,2014-09-21
+8603,132184,147191,1096,Egal International Airport,3654,Aden Adde International Airport,1974-09-10
+12954,132190,141465,347,Stuttgart Airport,1423,Kos Airport,1989-11-28
+12954,132190,142194,347,Stuttgart Airport,1423,Kos Airport,1989-11-28
+18070,132190,143590,1521,Pisa International Airport,655,Sandefjord Airport\, Torp,1990-11-22
+3502,132293,143703,2633,Teniente Av. Jorge Henrich Arauz Airport,2623,Jorge Wilsterman International Airport,2003-01-22
+13925,132293,144347,874,Sir Seewoosagur Ramgoolam International Airport,783,King Shaka International Airport,1996-12-23
+13925,132293,144471,874,Sir Seewoosagur Ramgoolam International Airport,783,King Shaka International Airport,1996-12-23
+14108,132297,140171,6019,Sanya Phoenix International Airport,5478,Chengdu Shuangliu International Airport,1998-10-23
+14108,132297,140266,6019,Sanya Phoenix International Airport,5478,Chengdu Shuangliu International Airport,1998-10-23
+14108,132297,144626,6019,Sanya Phoenix International Airport,5478,Chengdu Shuangliu International Airport,1998-10-23
+14108,132297,145699,6019,Sanya Phoenix International Airport,5478,Chengdu Shuangliu International Airport,1998-10-23
+17003,132297,140395,291,Djerba Zarzis International Airport,300,Brussels Airport,2002-04-03
+17003,132297,141350,291,Djerba Zarzis International Airport,300,Brussels Airport,2002-04-03
+19185,132379,140622,2992,Don Mueang International Airport,3019,Loei Airport,2019-11-14
+19185,132379,146585,2992,Don Mueang International Airport,3019,Loei Airport,2019-11-14
+186,132405,141321,1572,Vienna International Airport,726,Stockholm-Arlanda Airport,1990-01-24
+186,132405,143572,1572,Vienna International Airport,726,Stockholm-Arlanda Airport,1990-01-24
+5920,132405,142879,3229,Erbil International Airport,5426,Istanbul Airport,2000-04-26
+5920,132405,143189,3229,Erbil International Airport,5426,Istanbul Airport,2000-04-26
+5920,132405,146087,3229,Erbil International Airport,5426,Istanbul Airport,2000-04-26
+12754,132405,141425,177,Calgary International Airport,503,London Heathrow Airport,1997-02-07
+12754,132405,143874,177,Calgary International Airport,503,London Heathrow Airport,1997-02-07
+16950,132405,141446,660,Kraków John Paul II International Airport,1197,Adolfo Suárez Madrid–Barajas Airport,1993-10-11
+16950,132405,143705,660,Kraków John Paul II International Airport,1197,Adolfo Suárez Madrid–Barajas Airport,1993-10-11
+14702,132485,141439,5968,Riga International Airport,3223,Eleftherios Venizelos International Airport,2009-09-30
+14702,132485,142140,5968,Riga International Airport,3223,Eleftherios Venizelos International Airport,2009-09-30
+20792,132485,144170,5901,Mc Allen Miller International Airport,1785,Ponciano Arriaga International Airport,1995-04-17
+20792,132485,144971,5901,Mc Allen Miller International Airport,1785,Ponciano Arriaga International Airport,1995-04-17
+20792,132485,145229,5901,Mc Allen Miller International Airport,1785,Ponciano Arriaga International Airport,1995-04-17
+20792,132485,147225,5901,Mc Allen Miller International Airport,1785,Ponciano Arriaga International Airport,1995-04-17
+8728,132525,141132,3223,Eleftherios Venizelos International Airport,669,Warsaw Chopin Airport,2015-10-06
+8728,132525,143831,3223,Eleftherios Venizelos International Airport,669,Warsaw Chopin Airport,2015-10-06
+17698,132525,142861,1197,Adolfo Suárez Madrid–Barajas Airport,1319,Nice-Côte d'Azur Airport,2014-12-23
+20029,132565,144472,581,Eelde Airport,1584,Faro Airport,1973-11-12
+20029,132565,146925,581,Eelde Airport,1584,Faro Airport,1973-11-12
+17850,132785,140737,1318,Marseille Provence Airport,1187,Barcelona International Airport,1995-03-18
+17850,132785,141248,1318,Marseille Provence Airport,1187,Barcelona International Airport,1995-03-18
+17850,132785,143214,1318,Marseille Provence Airport,1187,Barcelona International Airport,1995-03-18
+17850,132785,144491,1318,Marseille Provence Airport,1187,Barcelona International Airport,1995-03-18
+17850,132785,144979,1318,Marseille Provence Airport,1187,Barcelona International Airport,1995-03-18
+17850,132785,146774,1318,Marseille Provence Airport,1187,Barcelona International Airport,1995-03-18
+3475,132838,143854,2805,Omsk Central Airport,3961,Khanty Mansiysk Airport,1975-12-18
+11763,132838,145605,6530,Elim Airport,6531,Golovin Airport,2018-08-06
+14790,132838,139948,1959,Palmerston North Airport,1940,Christchurch International Airport,2016-11-17
+14790,132838,140396,1959,Palmerston North Airport,1940,Christchurch International Airport,2016-11-17
+14790,132838,145668,1959,Palmerston North Airport,1940,Christchurch International Airport,2016-11-17
+19200,132838,144315,4470,Enfidha - Hammamet International Airport,339,Hamburg Airport,2016-07-23
+19200,132838,146080,4470,Enfidha - Hammamet International Airport,339,Hamburg Airport,2016-07-23
+19200,132838,146603,4470,Enfidha - Hammamet International Airport,339,Hamburg Airport,2016-07-23
+19200,132838,147445,4470,Enfidha - Hammamet International Airport,339,Hamburg Airport,2016-07-23
+1451,132865,146878,1725,Sangster International Airport,5570,Newark Liberty International Airport,1981-08-20
+11839,132865,140121,1204,Reus Air Base,532,Glasgow Prestwick Airport,1984-06-18
+11839,132865,146222,1204,Reus Air Base,532,Glasgow Prestwick Airport,1984-06-18
+11839,132865,147341,1204,Reus Air Base,532,Glasgow Prestwick Airport,1984-06-18
+15517,132901,141378,1528,Ljubljana Jože Pučnik Airport,1347,Charles de Gaulle International Airport,2003-05-14
+15517,132901,142209,1528,Ljubljana Jože Pučnik Airport,1347,Charles de Gaulle International Airport,2003-05-14
+15517,132901,146987,1528,Ljubljana Jože Pučnik Airport,1347,Charles de Gaulle International Airport,2003-05-14
+15517,132901,147110,1528,Ljubljana Jože Pučnik Airport,1347,Charles de Gaulle International Airport,2003-05-14
+17815,132907,140959,1286,Bastia-Poretta Airport,1300,Lyon Saint-Exupéry Airport,1990-08-21
+17815,132907,145848,1286,Bastia-Poretta Airport,1300,Lyon Saint-Exupéry Airport,1990-08-21
+17815,132907,146061,1286,Bastia-Poretta Airport,1300,Lyon Saint-Exupéry Airport,1990-08-21
+19075,132907,147160,1594,Francisco de Sá Carneiro Airport,1332,Paris Beauvais Tillé Airport,2019-07-27
+5510,132964,139964,5524,General Edward Lawrence Logan International Airport,5820,Syracuse Hancock International Airport,2004-03-11
+5510,132964,146252,5524,General Edward Lawrence Logan International Airport,5820,Syracuse Hancock International Airport,2004-03-11
+5510,132964,147453,5524,General Edward Lawrence Logan International Airport,5820,Syracuse Hancock International Airport,2004-03-11
+10061,132964,142909,2787,Ulan-Ude Airport (Mukhino),3244,Domodedovo International Airport,1998-12-18
+10061,132964,144053,2787,Ulan-Ude Airport (Mukhino),3244,Domodedovo International Airport,1998-12-18
+10354,132964,140002,124,Gander International Airport,187,Goose Bay Airport,1987-05-19
+10354,132964,140504,124,Gander International Airport,187,Goose Bay Airport,1987-05-19
+10354,132964,144008,124,Gander International Airport,187,Goose Bay Airport,1987-05-19
+16326,132964,142657,350,Bremen Airport,5974,Vilnius International Airport,1993-02-07
+16326,132964,145463,350,Bremen Airport,5974,Vilnius International Airport,1993-02-07
+16326,132964,147597,350,Bremen Airport,5974,Vilnius International Airport,1993-02-07
+773,133031,141309,503,London Heathrow Airport,192,Lester B. Pearson International Airport,2010-03-24
+5494,133031,142984,1795,Cancún International Airport,5608,Fort Lauderdale Hollywood International Airport,2010-01-14
+5494,133031,144060,1795,Cancún International Airport,5608,Fort Lauderdale Hollywood International Airport,2010-01-14
+13842,133031,141255,6010,Albuquerque International Sunport,5641,William P Hobby Airport,1995-11-26
+15591,133073,140549,3061,Wamena Airport,3060,Sentani International Airport,1992-03-20
+15591,133073,144257,3061,Wamena Airport,3060,Sentani International Airport,1992-03-20
+20255,133109,141492,1034,Tenerife South Airport,519,East Midlands Airport,2015-03-25
+20255,133109,146606,1034,Tenerife South Airport,519,East Midlands Airport,2015-03-25
+20699,133109,139847,285,Tunis Carthage International Airport,1318,Marseille Provence Airport,2003-11-23
+20699,133109,142973,285,Tunis Carthage International Airport,1318,Marseille Provence Airport,2003-11-23
+915,133262,144849,1795,Cancún International Airport,5953,Orlando International Airport,1972-04-01
+915,133262,145292,1795,Cancún International Airport,5953,Orlando International Airport,1972-04-01
+13379,133262,142614,2169,Kaohsiung International Airport,5454,Changsha Huanghua International Airport,2019-09-02
+8068,133298,140117,2131,Shaikh Zaid Airport,2115,Jinnah International Airport,1992-03-18
+8068,133298,141690,2131,Shaikh Zaid Airport,2115,Jinnah International Airport,1992-03-18
+8068,133298,144033,2131,Shaikh Zaid Airport,2115,Jinnah International Airport,1992-03-18
+8068,133298,147437,2131,Shaikh Zaid Airport,2115,Jinnah International Airport,1992-03-18
+9340,133298,147135,1767,Licenciado Benito Juarez International Airport,5625,George Bush Intercontinental Houston Airport,1984-03-26
+9340,133298,147393,1767,Licenciado Benito Juarez International Airport,5625,George Bush Intercontinental Houston Airport,1984-03-26
+10458,133298,144617,1748,Don Miguel Hidalgo Y Costilla International Airport,1782,General Lucio Blanco International Airport,1987-12-25
+19783,133298,141948,1725,Sangster International Airport,337,Frankfurt am Main Airport,2018-07-08
+19783,133298,142212,1725,Sangster International Airport,337,Frankfurt am Main Airport,2018-07-08
+1972,133449,146699,289,Gabès Matmata International Airport,294,Tozeur Nefta International Airport,2006-05-25
+4625,133449,142084,334,Berlin-Schönefeld Airport,1198,Málaga Airport,2004-08-18
+4625,133449,142324,334,Berlin-Schönefeld Airport,1198,Málaga Airport,2004-08-18
+4625,133449,145508,334,Berlin-Schönefeld Airport,1198,Málaga Airport,2004-08-18
+4625,133449,145632,334,Berlin-Schönefeld Airport,1198,Málaga Airport,2004-08-18
+4625,133449,147367,334,Berlin-Schönefeld Airport,1198,Málaga Airport,2004-08-18
+6100,133449,140215,5968,Riga International Airport,488,London Luton Airport,2000-01-06
+6100,133449,143157,5968,Riga International Airport,488,London Luton Airport,2000-01-06
+16436,133449,141448,5720,Detroit Metropolitan Wayne County Airport,5924,Baltimore/Washington International Thurgood Marshall Airport,1997-01-17
+17956,133449,140204,2991,Malé International Airport,2828,Sheremetyevo International Airport,2015-10-31
+17956,133449,141200,2991,Malé International Airport,2828,Sheremetyevo International Airport,2015-10-31
+17956,133449,141227,2991,Malé International Airport,2828,Sheremetyevo International Airport,2015-10-31
+17956,133449,142044,2991,Malé International Airport,2828,Sheremetyevo International Airport,2015-10-31
+17956,133449,144280,2991,Malé International Airport,2828,Sheremetyevo International Airport,2015-10-31
+18521,133449,141146,6129,University Park Airport,5905,Chicago O'Hare International Airport,2013-05-28
+4268,133462,145824,5826,Denver International Airport,5859,Santa Fe Municipal Airport,2003-07-04
+13420,133462,140298,575,Amsterdam Airport Schiphol,3228,Ministro Pistarini International Airport,1991-01-23
+13420,133462,142419,575,Amsterdam Airport Schiphol,3228,Ministro Pistarini International Airport,1991-01-23
+13420,133462,142541,575,Amsterdam Airport Schiphol,3228,Ministro Pistarini International Airport,1991-01-23
+20470,133462,139869,5570,Newark Liberty International Airport,5792,General Mitchell International Airport,1991-05-31
+20470,133462,144151,5570,Newark Liberty International Airport,5792,General Mitchell International Airport,1991-05-31
+5597,133633,146068,1511,Venice Marco Polo Airport,575,Amsterdam Airport Schiphol,1974-08-11
+20821,133633,140775,1051,Menara Airport,1239,Toulouse-Blagnac Airport,2001-04-02
+8220,133714,142141,1417,Heraklion International Nikos Kazantzakis Airport,519,East Midlands Airport,1988-07-25
+8220,133714,142971,1417,Heraklion International Nikos Kazantzakis Airport,519,East Midlands Airport,1988-07-25
+8220,133714,144027,1417,Heraklion International Nikos Kazantzakis Airport,519,East Midlands Airport,1988-07-25
+8220,133714,145442,1417,Heraklion International Nikos Kazantzakis Airport,519,East Midlands Airport,1988-07-25
+8220,133714,146113,1417,Heraklion International Nikos Kazantzakis Airport,519,East Midlands Airport,1988-07-25
+8886,133714,141903,5951,Charlotte Douglas International Airport,5868,Southwest Florida International Airport,2010-07-31
+8886,133714,146534,5951,Charlotte Douglas International Airport,5868,Southwest Florida International Airport,2010-07-31
+8886,133714,146626,5951,Charlotte Douglas International Airport,5868,Southwest Florida International Airport,2010-07-31
+13537,133714,139822,5677,Lihue Airport,5806,San Diego International Airport,2004-06-01
+13537,133714,142687,5677,Lihue Airport,5806,San Diego International Airport,2004-06-01
+13537,133714,144127,5677,Lihue Airport,5806,San Diego International Airport,2004-06-01
+13537,133714,144394,5677,Lihue Airport,5806,San Diego International Airport,2004-06-01
+13537,133714,146086,5677,Lihue Airport,5806,San Diego International Airport,2004-06-01
+7732,133966,142831,5538,Phoenix Sky Harbor International Airport,5677,Lihue Airport,1985-06-01
+7732,133966,143565,5538,Phoenix Sky Harbor International Airport,5677,Lihue Airport,1985-06-01
+15177,133966,142961,2709,Simón Bolívar International Airport,1814,Tocumen International Airport,1994-02-17
+15177,133966,143863,2709,Simón Bolívar International Airport,1814,Tocumen International Airport,1994-02-17
+19973,133966,141224,3353,Nizhny Novgorod Strigino International Airport,2826,Tashkent International Airport,2017-10-22
+19973,133966,141510,3353,Nizhny Novgorod Strigino International Airport,2826,Tashkent International Airport,2017-10-22
+19973,133966,145950,3353,Nizhny Novgorod Strigino International Airport,2826,Tashkent International Airport,2017-10-22
+8538,133989,143347,3295,Yaoundé Nsimalen International Airport,882,Garoua International Airport,2009-04-19
+8538,133989,144490,3295,Yaoundé Nsimalen International Airport,882,Garoua International Airport,2009-04-19
+8538,133989,146514,3295,Yaoundé Nsimalen International Airport,882,Garoua International Airport,2009-04-19
+14701,133989,143241,436,Kuopio Airport,418,Helsinki Vantaa Airport,2011-07-06
+14701,133989,144455,436,Kuopio Airport,418,Helsinki Vantaa Airport,2011-07-06
+14701,133989,144963,436,Kuopio Airport,418,Helsinki Vantaa Airport,2011-07-06
+14701,133989,146590,436,Kuopio Airport,418,Helsinki Vantaa Airport,2011-07-06
+19297,133989,140418,889,Mfuwe Airport,888,Kenneth Kaunda International Airport Lusaka,2011-08-19
+19297,133989,146929,889,Mfuwe Airport,888,Kenneth Kaunda International Airport Lusaka,2011-08-19
+19297,133989,147344,889,Mfuwe Airport,888,Kenneth Kaunda International Airport Lusaka,2011-08-19
+13662,134024,145861,5485,Zhoushuizi Airport,6084,Xuzhou Guanyin Airport,2009-02-28
+20958,134024,141625,4654,Al Maktoum International Airport,2835,Ufa International Airport,1987-05-14
+20958,134024,145111,4654,Al Maktoum International Airport,2835,Ufa International Airport,1987-05-14
+20958,134024,145795,4654,Al Maktoum International Airport,2835,Ufa International Airport,1987-05-14
+6434,134162,141656,2086,Aqaba King Hussein International Airport,2084,Queen Alia International Airport,1995-08-06
+6434,134162,142303,2086,Aqaba King Hussein International Airport,2084,Queen Alia International Airport,1995-08-06
+6434,134162,142325,2086,Aqaba King Hussein International Airport,2084,Queen Alia International Airport,1995-08-06
+6434,134162,145556,2086,Aqaba King Hussein International Airport,2084,Queen Alia International Airport,1995-08-06
+9884,134162,141145,5872,John F Kennedy International Airport,5641,William P Hobby Airport,2011-10-30
+9884,134162,142432,5872,John F Kennedy International Airport,5641,William P Hobby Airport,2011-10-30
+9884,134162,144365,5872,John F Kennedy International Airport,5641,William P Hobby Airport,2011-10-30
+18201,134162,142836,2614,Gustavo Rojas Pinilla International Airport,1814,Tocumen International Airport,2001-09-14
+18201,134162,144631,2614,Gustavo Rojas Pinilla International Airport,1814,Tocumen International Airport,2001-09-14
+18201,134162,144781,2614,Gustavo Rojas Pinilla International Airport,1814,Tocumen International Airport,2001-09-14
+18201,134162,146848,2614,Gustavo Rojas Pinilla International Airport,1814,Tocumen International Airport,2001-09-14
+19261,134162,140400,5868,Southwest Florida International Airport,5570,Newark Liberty International Airport,2012-07-09
+19261,134162,145347,5868,Southwest Florida International Airport,5570,Newark Liberty International Airport,2012-07-09
+19261,134162,145357,5868,Southwest Florida International Airport,5570,Newark Liberty International Airport,2012-07-09
+20113,134162,144508,418,Helsinki Vantaa Airport,575,Amsterdam Airport Schiphol,1984-07-06
+12697,134225,140633,5014,Asaba International Airport,271,Murtala Muhammed International Airport,2005-03-27
+12697,134225,144587,5014,Asaba International Airport,271,Murtala Muhammed International Airport,2005-03-27
+12697,134225,145772,5014,Asaba International Airport,271,Murtala Muhammed International Airport,2005-03-27
+12697,134225,147027,5014,Asaba International Airport,271,Murtala Muhammed International Airport,2005-03-27
+15079,134225,140171,2764,Astana International Airport,2772,Aktobe Airport,2009-10-14
+15079,134225,145533,2764,Astana International Airport,2772,Aktobe Airport,2009-10-14
+18224,134225,140547,1887,Mayaguana Airport,1884,Inagua Airport,2006-11-29
+18224,134225,140657,1887,Mayaguana Airport,1884,Inagua Airport,2006-11-29
+18224,134225,140968,1887,Mayaguana Airport,1884,Inagua Airport,2006-11-29
+18224,134225,142689,1887,Mayaguana Airport,1884,Inagua Airport,2006-11-29
+18224,134225,143459,1887,Mayaguana Airport,1884,Inagua Airport,2006-11-29
+810,134438,140526,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+810,134438,142937,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+810,134438,143443,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+810,134438,144008,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+810,134438,144632,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+810,134438,144686,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+810,134438,145862,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+810,134438,147485,3515,Red Lake Airport,168,Sioux Lookout Airport,1999-10-01
+1703,134438,142781,2502,Ten. Cel. Aviador César Bombonato Airport,2487,Congonhas Airport,2006-05-11
+1703,134438,145120,2502,Ten. Cel. Aviador César Bombonato Airport,2487,Congonhas Airport,2006-05-11
+1703,134438,145646,2502,Ten. Cel. Aviador César Bombonato Airport,2487,Congonhas Airport,2006-05-11
+6273,134438,141444,5852,Bellingham International Airport,5914,Palm Springs International Airport,2020-05-15
+10326,134438,142726,2104,Sharjah International Airport,2932,Indira Gandhi International Airport,2020-09-29
+10326,134438,145914,2104,Sharjah International Airport,2932,Indira Gandhi International Airport,2020-09-29
+179,134449,144128,636,Oslo Lufthavn,3173,Suvarnabhumi Airport,2012-12-25
+14199,134449,141725,258,Nnamdi Azikiwe International Airport,4311,Warri Airport,2019-06-07
+14199,134449,141834,258,Nnamdi Azikiwe International Airport,4311,Warri Airport,2019-06-07
+14199,134449,147054,258,Nnamdi Azikiwe International Airport,4311,Warri Airport,2019-06-07
+15612,134449,139812,2429,Hercílio Luz International Airport,2433,Rio Galeão – Tom Jobim International Airport,2007-07-10
+15612,134449,141831,2429,Hercílio Luz International Airport,2433,Rio Galeão – Tom Jobim International Airport,2007-07-10
+15612,134449,147379,2429,Hercílio Luz International Airport,2433,Rio Galeão – Tom Jobim International Airport,2007-07-10
+18124,134449,140164,1515,Leonardo da Vinci–Fiumicino Airport,5426,Istanbul Airport,2019-07-16
+18826,134449,141665,1351,Paris-Orly Airport,3639,Mogador Airport,2013-01-31
+18826,134449,145409,1351,Paris-Orly Airport,3639,Mogador Airport,2013-01-31
+18826,134449,145726,1351,Paris-Orly Airport,3639,Mogador Airport,2013-01-31
+18826,134449,147211,1351,Paris-Orly Airport,3639,Mogador Airport,2013-01-31
+20713,134488,141904,5721,Tampa International Airport,5702,James M Cox Dayton International Airport,1965-11-03
+5119,134600,143712,5545,San Francisco International Airport,5936,Louis Armstrong New Orleans International Airport,2007-10-01
+10347,134600,144559,2828,Sheremetyevo International Airport,636,Oslo Lufthavn,2017-10-08
+10347,134600,145518,2828,Sheremetyevo International Airport,636,Oslo Lufthavn,2017-10-08
+11396,134600,144979,1584,Faro Airport,547,Exeter International Airport,2008-02-17
+13313,134600,140093,1995,King Fahd International Airport,2013,King Khaled International Airport,1994-05-17
+13313,134600,142597,1995,King Fahd International Airport,2013,King Khaled International Airport,1994-05-17
+8195,134648,142368,5772,La Guardia Airport,5721,Tampa International Airport,1994-07-15
+8195,134648,144151,5772,La Guardia Airport,5721,Tampa International Airport,1994-07-15
+8195,134648,144560,5772,La Guardia Airport,5721,Tampa International Airport,1994-07-15
+8195,134648,145564,5772,La Guardia Airport,5721,Tampa International Airport,1994-07-15
+15965,134648,144505,2831,Vnukovo International Airport,5985,Kopitnari Airport,2020-06-30
+15965,134648,146328,2831,Vnukovo International Airport,5985,Kopitnari Airport,2020-06-30
+1856,134668,140275,2190,New Chitose Airport,2226,Toyama Airport,2006-12-20
+1856,134668,144416,2190,New Chitose Airport,2226,Toyama Airport,2006-12-20
+6620,134668,147294,68,Ulukhaktok Holman Airport,54,Inuvik Mike Zubko Airport,2020-11-23
+9123,134668,146650,5745,Dallas Fort Worth International Airport,5795,Portland International Airport,1985-06-16
+10976,134668,140223,1498,Bologna Guglielmo Marconi Airport,4776,Modlin Airport,2002-06-26
+10976,134668,140413,1498,Bologna Guglielmo Marconi Airport,4776,Modlin Airport,2002-06-26
+10976,134668,142021,1498,Bologna Guglielmo Marconi Airport,4776,Modlin Airport,2002-06-26
+13475,134668,141956,1216,Vigo Airport,1347,Charles de Gaulle International Airport,2019-10-03
+14258,134668,140369,5872,John F Kennedy International Airport,5608,Fort Lauderdale Hollywood International Airport,2015-10-19
+14258,134668,143032,5872,John F Kennedy International Airport,5608,Fort Lauderdale Hollywood International Airport,2015-10-19
+14258,134668,143508,5872,John F Kennedy International Airport,5608,Fort Lauderdale Hollywood International Airport,2015-10-19
+14258,134668,145985,5872,John F Kennedy International Airport,5608,Fort Lauderdale Hollywood International Airport,2015-10-19
+1500,135028,143957,2708,Del Caribe Santiago Mariño International Airport,3908,Juan Pablo Pérez Alfonso Airport,2000-11-01
+8850,135028,141076,1571,Salzburg Airport,1103,Hurghada International Airport,2004-03-14
+8850,135028,142670,1571,Salzburg Airport,1103,Hurghada International Airport,2004-03-14
+8850,135028,146561,1571,Salzburg Airport,1103,Hurghada International Airport,2004-03-14
+12865,135028,141110,495,Jersey Airport,484,Cardiff International Airport,2007-10-02
+12865,135028,141980,495,Jersey Airport,484,Cardiff International Airport,2007-10-02
+12865,135028,143665,495,Jersey Airport,484,Cardiff International Airport,2007-10-02
+12865,135028,146778,495,Jersey Airport,484,Cardiff International Airport,2007-10-02
+19957,135028,139903,2209,Kagoshima Airport,2182,Narita International Airport,2014-10-02
+19957,135028,141126,2209,Kagoshima Airport,2182,Narita International Airport,2014-10-02
+19957,135028,141246,2209,Kagoshima Airport,2182,Narita International Airport,2014-10-02
+19957,135028,141994,2209,Kagoshima Airport,2182,Narita International Airport,2014-10-02
+1980,135136,140708,1470,Catania-Fontanarossa Airport,488,London Luton Airport,2016-01-01
+1980,135136,144403,1470,Catania-Fontanarossa Airport,488,London Luton Airport,2016-01-01
+1980,135136,146331,1470,Catania-Fontanarossa Airport,488,London Luton Airport,2016-01-01
+3162,135136,146836,5834,John Glenn Columbus International Airport,5596,Ronald Reagan Washington National Airport,1975-02-08
+394,135745,141057,2714,General Manuel Carlos Piar International Airport,2718,Santa Elena de Uairen Airport,2013-12-07
+394,135745,145356,2714,General Manuel Carlos Piar International Airport,2718,Santa Elena de Uairen Airport,2013-12-07
+6638,135745,142286,1450,Thessaloniki Macedonia International Airport,347,Stuttgart Airport,1984-04-02
+6638,135745,142918,1450,Thessaloniki Macedonia International Airport,347,Stuttgart Airport,1984-04-02
+6638,135745,146749,1450,Thessaloniki Macedonia International Airport,347,Stuttgart Airport,1984-04-02
+13810,135745,147142,6980,Busselton Regional Airport,4056,Albany Airport,1995-08-25
+16207,135745,145857,5596,Ronald Reagan Washington National Airport,5720,Detroit Metropolitan Wayne County Airport,1993-08-14
+16207,135745,146107,5596,Ronald Reagan Washington National Airport,5720,Detroit Metropolitan Wayne County Airport,1993-08-14
+19042,135745,141038,5789,Washington Dulles International Airport,6211,Lancaster Airport,2014-06-02
+19042,135745,144539,5789,Washington Dulles International Airport,6211,Lancaster Airport,2014-06-02
+4470,135796,145164,3213,Incheon International Airport,3214,Chiang Mai International Airport,2021-01-02
+4470,135796,145832,3213,Incheon International Airport,3214,Chiang Mai International Airport,2021-01-02
+4470,135796,146942,3213,Incheon International Airport,3214,Chiang Mai International Airport,2021-01-02
+6034,135796,145472,165,Saskatoon John G. Diefenbaker International Airport,155,Vancouver International Airport,2011-10-25
+6034,135796,146181,165,Saskatoon John G. Diefenbaker International Airport,155,Vancouver International Airport,2011-10-25
+14298,135796,143715,5987,Mukalla International Airport,2101,Dubai International Airport,2018-09-15
+10391,135920,145049,1752,Licenciado Miguel de la Madrid Airport,1790,General Abelardo L. Rodríguez International Airport,2012-11-27
+10391,135920,147033,1752,Licenciado Miguel de la Madrid Airport,1790,General Abelardo L. Rodríguez International Airport,2012-11-27
+12530,135920,141164,491,Southampton Airport,593,Dublin Airport,2013-03-19
+12530,135920,143901,491,Southampton Airport,593,Dublin Airport,2013-03-19
+12530,135920,144425,491,Southampton Airport,593,Dublin Airport,2013-03-19
+12530,135920,147441,491,Southampton Airport,593,Dublin Airport,2013-03-19
+18112,135920,139794,4006,Hanimaadhoo Airport,5156,Dharavandhoo Airport,2014-09-18
+18112,135920,143526,4006,Hanimaadhoo Airport,5156,Dharavandhoo Airport,2014-09-18
+18112,135920,144300,4006,Hanimaadhoo Airport,5156,Dharavandhoo Airport,2014-09-18
+18112,135920,147454,4006,Hanimaadhoo Airport,5156,Dharavandhoo Airport,2014-09-18
+18112,135920,147460,4006,Hanimaadhoo Airport,5156,Dharavandhoo Airport,2014-09-18
+6422,135950,143440,2479,Governador Jorge Teixeira de Oliveira Airport,2425,Eduardo Gomes International Airport,2003-04-25
+6422,135950,146974,2479,Governador Jorge Teixeira de Oliveira Airport,2425,Eduardo Gomes International Airport,2003-04-25
+6422,135950,147005,2479,Governador Jorge Teixeira de Oliveira Airport,2425,Eduardo Gomes International Airport,2003-04-25
+12428,135950,142458,1439,Chania International Airport,1572,Vienna International Airport,2020-01-11
+12428,135950,145140,1439,Chania International Airport,1572,Vienna International Airport,2020-01-11
+19386,135950,140066,656,Trondheim Airport Værnes,412,Lennart Meri Tallinn Airport,2015-09-09
+1722,135997,144663,3381,Vadsø Airport,641,Kirkenes Airport (Høybuktmoen),1992-10-22
+6667,135997,140228,3080,Miri Airport,3077,Kuching International Airport,2008-09-22
+6667,135997,142765,3080,Miri Airport,3077,Kuching International Airport,2008-09-22
+6667,135997,144325,3080,Miri Airport,3077,Kuching International Airport,2008-09-22
+6667,135997,146589,3080,Miri Airport,3077,Kuching International Airport,2008-09-22
+9025,135997,146218,5823,Norman Y. Mineta San Jose International Airport,1748,Don Miguel Hidalgo Y Costilla International Airport,1999-12-10
+19719,135997,140510,1197,Adolfo Suárez Madrid–Barajas Airport,2518,Comodoro Arturo Merino Benítez International Airport,2013-11-26
+19719,135997,141755,1197,Adolfo Suárez Madrid–Barajas Airport,2518,Comodoro Arturo Merino Benítez International Airport,2013-11-26
+19719,135997,144387,1197,Adolfo Suárez Madrid–Barajas Airport,2518,Comodoro Arturo Merino Benítez International Airport,2013-11-26
+19719,135997,144425,1197,Adolfo Suárez Madrid–Barajas Airport,2518,Comodoro Arturo Merino Benítez International Airport,2013-11-26
+19719,135997,146070,1197,Adolfo Suárez Madrid–Barajas Airport,2518,Comodoro Arturo Merino Benítez International Airport,2013-11-26
+19719,135997,147048,1197,Adolfo Suárez Madrid–Barajas Airport,2518,Comodoro Arturo Merino Benítez International Airport,2013-11-26
+13394,136023,145820,3166,Sydney Kingsford Smith International Airport,4121,Moree Airport,1994-09-12
+19251,136023,139908,2762,Almaty Airport,3393,Kzyl-Orda Southwest Airport,2016-09-30
+19251,136023,140715,2762,Almaty Airport,3393,Kzyl-Orda Southwest Airport,2016-09-30
+19251,136023,140722,2762,Almaty Airport,3393,Kzyl-Orda Southwest Airport,2016-09-30
+19251,136023,141406,2762,Almaty Airport,3393,Kzyl-Orda Southwest Airport,2016-09-30
+19251,136023,142566,2762,Almaty Airport,3393,Kzyl-Orda Southwest Airport,2016-09-30
+19251,136023,147566,2762,Almaty Airport,3393,Kzyl-Orda Southwest Airport,2016-09-30
+19786,136023,140245,2535,Pichoy Airport,2518,Comodoro Arturo Merino Benítez International Airport,2001-03-08
+19786,136023,141295,2535,Pichoy Airport,2518,Comodoro Arturo Merino Benítez International Airport,2001-03-08
+19786,136023,141929,2535,Pichoy Airport,2518,Comodoro Arturo Merino Benítez International Airport,2001-03-08
+6755,136121,139924,3484,Kuujjuarapik Airport,148,Rouyn Noranda Airport,2018-01-21
+6755,136121,146876,3484,Kuujjuarapik Airport,148,Rouyn Noranda Airport,2018-01-21
+14859,136121,145630,6420,Tongren Fenghuang Airport,5457,Shenzhen Bao'an International Airport,2001-01-20
+19247,136121,146205,1789,Angel Albino Corzo International Airport,1790,General Abelardo L. Rodríguez International Airport,2013-01-04
+20773,136121,141071,5952,McCarran International Airport,498,London Gatwick Airport,1987-08-07
+11247,136330,141333,1050,Mohammed V International Airport,498,London Gatwick Airport,1987-05-08
+11247,136330,143759,1050,Mohammed V International Airport,498,London Gatwick Airport,1987-05-08
+11247,136330,144100,1050,Mohammed V International Airport,498,London Gatwick Airport,1987-05-08
+11247,136330,147060,1050,Mohammed V International Airport,498,London Gatwick Airport,1987-05-08
+13841,136330,144338,872,Malabo Airport,1083,Addis Ababa Bole International Airport,2014-07-17
+13841,136330,146587,872,Malabo Airport,1083,Addis Ababa Bole International Airport,2014-07-17
+13874,136330,140355,1347,Charles de Gaulle International Airport,2754,Princess Juliana International Airport,1999-01-31
+13874,136330,142012,1347,Charles de Gaulle International Airport,2754,Princess Juliana International Airport,1999-01-31
+20183,136330,142682,5795,Portland International Airport,5882,Reno Tahoe International Airport,1967-05-16
+5582,136390,140894,5795,Portland International Airport,5803,Daniel K Inouye International Airport,2000-09-14
+5582,136390,142800,5795,Portland International Airport,5803,Daniel K Inouye International Airport,2000-09-14
+5582,136390,143521,5795,Portland International Airport,5803,Daniel K Inouye International Airport,2000-09-14
+5582,136390,146927,5795,Portland International Airport,5803,Daniel K Inouye International Airport,2000-09-14
+5582,136390,147232,5795,Portland International Airport,5803,Daniel K Inouye International Airport,2000-09-14
+8016,136390,142289,503,London Heathrow Airport,2437,Guarulhos - Governador André Franco Montoro International Airport,1978-04-29
+8016,136390,143017,503,London Heathrow Airport,2437,Guarulhos - Governador André Franco Montoro International Airport,1978-04-29
+12276,136390,144790,2590,San Luis Airport,2575,El Dorado International Airport,2006-10-13
+12276,136390,145637,2590,San Luis Airport,2575,El Dorado International Airport,2006-10-13
+15442,136390,140656,3108,Kuantan Airport,3113,Kuala Lumpur International Airport,2013-12-05
+19427,136390,142882,2277,Naha Airport,2280,New Ishigaki Airport,2000-03-21
+8895,136454,140066,575,Amsterdam Airport Schiphol,1167,Larnaca International Airport,2011-07-28
+8895,136454,144208,575,Amsterdam Airport Schiphol,1167,Larnaca International Airport,2011-07-28
+13160,136454,141186,6003,Manchester-Boston Regional Airport,5596,Ronald Reagan Washington National Airport,2020-11-08
+12290,136463,140747,2272,Gimpo International Airport,2265,Jeju International Airport,1980-02-29
+12290,136463,143212,2272,Gimpo International Airport,2265,Jeju International Airport,1980-02-29
+12290,136463,144179,2272,Gimpo International Airport,2265,Jeju International Airport,1980-02-29
+7022,136503,141072,3945,Cherepovets Airport,2795,Pulkovo Airport,2013-06-30
+9271,136503,141535,2988,Trivandrum International Airport,4006,Hanimaadhoo Airport,2011-09-25
+9271,136503,146003,2988,Trivandrum International Airport,4006,Hanimaadhoo Airport,2011-09-25
+17061,136503,142888,1515,Leonardo da Vinci–Fiumicino Airport,1849,José Martí International Airport,2013-04-30
+17061,136503,145153,1515,Leonardo da Vinci–Fiumicino Airport,1849,José Martí International Airport,2013-04-30
+20050,136503,143061,669,Warsaw Chopin Airport,300,Brussels Airport,1966-03-06
+1456,136517,143232,5952,McCarran International Airport,5852,Bellingham International Airport,2019-03-20
+1456,136517,144960,5952,McCarran International Airport,5852,Bellingham International Airport,2019-03-20
+1456,136517,147506,5952,McCarran International Airport,5852,Bellingham International Airport,2019-03-20
+8525,136517,141813,4654,Al Maktoum International Airport,2084,Queen Alia International Airport,1996-11-10
+8525,136517,142565,4654,Al Maktoum International Airport,2084,Queen Alia International Airport,1996-11-10
+10994,136517,143013,343,Munich Airport,1603,Sarajevo International Airport,1996-11-13
+10994,136517,145051,343,Munich Airport,1603,Sarajevo International Airport,1996-11-13
+11631,136517,141889,5471,Nanjing Lukou Airport,6264,Baita International Airport,2010-06-11
+11631,136517,142457,5471,Nanjing Lukou Airport,6264,Baita International Airport,2010-06-11
+11631,136517,145444,5471,Nanjing Lukou Airport,6264,Baita International Airport,2010-06-11
+11631,136517,145484,5471,Nanjing Lukou Airport,6264,Baita International Airport,2010-06-11
+14898,136517,142299,6010,Albuquerque International Sunport,5545,San Francisco International Airport,2006-07-31
+14898,136517,145679,6010,Albuquerque International Sunport,5545,San Francisco International Airport,2006-07-31
+14898,136517,146856,6010,Albuquerque International Sunport,5545,San Francisco International Airport,2006-07-31
+14898,136517,147335,6010,Albuquerque International Sunport,5545,San Francisco International Airport,2006-07-31
+8264,136532,139950,370,Dortmund Airport,1198,Málaga Airport,1989-12-27
+8264,136532,141471,370,Dortmund Airport,1198,Málaga Airport,1989-12-27
+8264,136532,142502,370,Dortmund Airport,1198,Málaga Airport,1989-12-27
+8264,136532,144760,370,Dortmund Airport,1198,Málaga Airport,1989-12-27
+8264,136532,146451,370,Dortmund Airport,1198,Málaga Airport,1989-12-27
+11122,136532,140402,219,Rabah Bitat Airport,5426,Istanbul Airport,1997-07-14
+11122,136532,141982,219,Rabah Bitat Airport,5426,Istanbul Airport,1997-07-14
+11122,136532,142988,219,Rabah Bitat Airport,5426,Istanbul Airport,1997-07-14
+11122,136532,146570,219,Rabah Bitat Airport,5426,Istanbul Airport,1997-07-14
+15230,136532,140504,5981,Asmara International Airport,1146,Khartoum International Airport,1998-10-21
+15230,136532,140823,5981,Asmara International Airport,1146,Khartoum International Airport,1998-10-21
+15240,136532,142000,3391,Anapa Vityazevo Airport,2795,Pulkovo Airport,1995-03-01
+15240,136532,144335,3391,Anapa Vityazevo Airport,2795,Pulkovo Airport,1995-03-01
+15240,136532,147060,3391,Anapa Vityazevo Airport,2795,Pulkovo Airport,1995-03-01
+11722,136559,141890,2966,Kempegowda International Airport,2860,Pune Airport,2020-12-12
+11722,136559,144060,2966,Kempegowda International Airport,2860,Pune Airport,2020-12-12
+11722,136559,145170,2966,Kempegowda International Airport,2860,Pune Airport,2020-12-12
+14986,136559,140229,1485,Malpensa International Airport,1480,Cagliari Elmas Airport,2011-05-16
+16196,136559,142944,1032,Gran Canaria Airport,1210,Santiago de Compostela Airport,2018-05-12
+16196,136559,143921,1032,Gran Canaria Airport,1210,Santiago de Compostela Airport,2018-05-12
+7603,136573,144817,1423,Kos Airport,300,Brussels Airport,1979-07-12
+5072,136649,145416,504,Southend Airport,593,Dublin Airport,2012-09-17
+5072,136649,147360,504,Southend Airport,593,Dublin Airport,2012-09-17
+7048,136649,141376,1822,Daniel Oduber Quiros International Airport,5560,Los Angeles International Airport,2013-12-12

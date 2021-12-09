@@ -1,0 +1,41 @@
+air_id,air_name,altitude,city_id,city_name,city_timezone,country_id,country_name
+602,Copenhagen Kastrup Airport,17,583,Copenhagen,1,25,Denmark
+527,Aberdeen Dyce Airport,215,510,Aberdeen,0,18,United Kingdom
+656,Trondheim Airport Værnes,56,636,Trondheim,1,28,Norway
+347,Stuttgart Airport,1276,337,Stuttgart,1,15,Germany
+1490,Milano Linate Airport,353,1430,Milan,1,86,Italy
+1462,Bari Karol Wojtyła Airport,177,1404,Bari,1,86,Italy
+1187,Barcelona International Airport,12,1147,Barcelona,1,58,Spain
+1634,Zürich Airport,1416,1569,Zurich,1,95,Switzerland
+3213,Incheon International Airport,23,2175,Seoul,9,152,South Korea
+3281,Diosdado Macapagal International Airport,484,3700,Angeles City,8,153,Philippines
+2190,New Chitose Airport,82,2095,Sapporo,9,151,Japan
+2152,Antonio B. Won Pat International Airport,298,2060,Agana,10,145,Guam
+2277,Naha Airport,12,2180,Okinawa,9,151,Japan
+796,OR Tambo International Airport,5558,759,Johannesburg,2,31,South Africa
+824,Pietermaritzburg Airport,2423,794,Pietermaritzburg,2,31,South Africa
+3125,Singapore Changi Airport,22,3000,Singapore,8,209,Singapore
+1471,Lampedusa Airport,70,1413,Lampedusa,1,86,Italy
+1473,Falcone–Borsellino Airport,65,1415,Palermo,1,86,Italy
+300,Brussels Airport,184,291,Brussels,1,14,Belgium
+726,Stockholm-Arlanda Airport,137,663,Stockholm,1,30,Sweden
+714,Kiruna Airport,1508,690,Kiruna,1,30,Sweden
+622,Ålesund Airport,69,602,Alesund,1,28,Norway
+5449,Beijing Capital International Airport,116,3040,Beijing,8,213,China
+2932,Indira Gandhi International Airport,777,2810,Delhi,6,192,India
+5721,Tampa International Airport,26,3304,Tampa,-5,216,United States
+412,Lennart Meri Tallinn Airport,131,400,Tallinn-ulemiste International,2,16,Estonia
+457,Turku Airport,161,444,Turku,2,17,Finland
+1522,Peretola Airport,142,1460,Florence,1,86,Italy
+335,Dresden Airport,755,326,Dresden,1,15,Germany
+899,Ivato Airport,4198,867,Antananarivo,3,46,Madagascar
+2905,Vishakhapatnam Airport,15,2786,Vishakhapatnam,6,192,India
+3056,Hasanuddin International Airport,47,2932,Ujung Pandang,8,205,Indonesia
+1470,Catania-Fontanarossa Airport,39,1412,Catania,1,86,Italy
+1472,Pantelleria Airport,628,1414,Pantelleria,1,86,Italy
+474,Manchester Airport,257,460,Manchester,0,18,United Kingdom
+3584,Ängelholm-Helsingborg Airport,68,4070,Ängelholm,1,30,Sweden
+342,Düsseldorf Airport,147,332,Duesseldorf,1,15,Germany
+711,Sundsvall-Härnösand Airport,16,687,Sundsvall,1,30,Sweden
+145,Montreal / Pierre Elliott Trudeau International Airport,118,71,Montreal,-5,4,Canada
+1706,Punta Cana International Airport,47,1632,Punta Cana,-4,104,Dominican Republic
