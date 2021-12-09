@@ -1,3 +1,10 @@
+-- This query finds the lost luggage in relation to the time difference between the
+-- origin and destination of a flight.
+-- It takes into account both positive and negative time differences. This query simply uses the function
+-- TIMESTAMPDIFF which calculates and returns the number of months between two given dates.
+-- This query also joins the airport and city tables twice to get the time zone from both departure and
+-- destination.
+
 SELECT c1.timezone - c2.timezone As TimeDifference, COUNT(lo.lostObjectID) As "# lost objects"
 FROM FLIGHT As f
 JOIN ROUTE As r ON f.routeID = r.routeID

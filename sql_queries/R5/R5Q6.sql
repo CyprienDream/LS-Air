@@ -1,3 +1,7 @@
+-- This query lists the most spoken languages by flight attendants and the other
+-- employes. This query consists of the union if two basic queries. The whole trick rests on counting
+-- the number of language Ids and grouping by the same ids.
+
 SELECT "other employees" As "employee type", l.name As "language", COUNT(l.languageID) As "# people who speak the language"
 FROM EMPLOYEE As e
 JOIN PERSON AS p ON e.employeeID = p.personID

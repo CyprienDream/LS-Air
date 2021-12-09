@@ -1,3 +1,9 @@
+-- The following query looks for passengers that speak at least two languages and that have
+-- done a flight with a time difference from origin to destination of at least 3 hours.
+-- It uses two subqueries to calculate number of languages and find the
+-- Chavacano speakers as they use the same tables but are aggregated differently. Finally, just like in
+-- the previous query, it joins the airport and city tables twice to deal with the time difference.
+
 SELECT p.name, p.surname, p.phone_number, multiLingual.numSpoken As "# languages spoken"
 FROM
 (
@@ -17,7 +23,7 @@ JOIN LanguagePerson as lp ON lp.personID = pers.personID
 GROUP BY lp.personID
 HAVING numSpoken > 1
 ) As multiLingual ON ChavacanoSpeakers.personID = multiLingual.personID
-JOIN 
+JOIN
 (
 SELECT DISTINCT p.passengerID
 FROM PASSENGER As p

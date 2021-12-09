@@ -1,3 +1,10 @@
+-- In This query finds in which airports smuggling is taking place by looking at the
+-- passengers which try to travel with prohibited products in the destination country.
+-- This query uses three subqueries. Two of them are used to calculate the number of
+-- passengers arriving and departing from each airport and the last one takes care of finding which
+-- airports have been used as smuggling places. Finally, all this is encapsulated in one big subquery
+-- because it needs to perform an addition between the result of two aggregated functions.
+
 SELECT p1.name, numDep + numDes As "total number of passengers"
 FROM
 (
