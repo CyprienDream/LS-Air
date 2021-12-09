@@ -1,3 +1,6 @@
+-- This query had for goal to select these passengers who speak a language that is not spoken by any of
+-- their flight attendants. Additionally, these passengers need to have been born more than 100 years
+-- ago.
 SELECT P.name as "passenger name", P.surname, P.born_date as "born date"
 FROM PERSON as P
 JOIN PASSENGER as Ps ON Ps.passengerID = P.personID
@@ -11,6 +14,5 @@ JOIN LanguagePerson as LP2 ON LP2.personID = FA.flightAttendantID
 JOIN LANGUAGE as L2 ON L2.languageID = LP2.languageID
 WHERE L2.name != L.name
 GROUP by P.personID
-HAVING P.born_date < '1921-04-28' 
+HAVING P.born_date < '1921-04-28'
 ORDER by P.name
-

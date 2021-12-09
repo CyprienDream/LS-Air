@@ -1,13 +1,17 @@
+-- This query finds those people that, after a flight with turbulences, have not flown again.
+-- This query retrieves those people that have had a flight with turbulences and, on top of that, the
+-- date of that flight matched the maximum date of all the flights of that person.
+
 use lsair;
 
 SELECT P.personID as "person id", P.name, P.surname, P.born_date
 FROM person as P
 JOIN flighttickets as FT ON P.personID = FT.passengerID
 JOIN flight as F ON F.flightID = FT.flightID
-JOIN `status` as S ON S.statusID = F.statusID 
+JOIN `status` as S ON S.statusID = F.statusID
 WHERE S.status = "Strong Turbulences" AND F.date = (SELECT MAX(FinalTurbulence) FROM (SELECT F.date as "FinalTurbulence"
 FROM person as P2
 JOIN flighttickets as FT ON P2.personID = FT.passengerID
 JOIN flight as F ON F.flightID = FT.flightID
 JOIN `status` as S ON S.statusID = F.statusID WHERE P2.personID = P.personID GROUP by P2.personID) as FinalTurbulence)
-GROUP by P.personID 
+GROUP by P.personID

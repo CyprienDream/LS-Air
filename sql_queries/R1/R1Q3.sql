@@ -1,3 +1,8 @@
+-- The point of this query was to identify pilots who have served as copilots moret times than pilots.
+-- We also had to check that the grade of these pilots was higher than the average grade of all pilots.
+-- The information we needed to show was the flying license, the number of tumes being a pilot and
+-- the grade.
+
 use lsair;
 
 SELECT Pi.flying_license, COUNT(Pi.pilotID), Pi.grade

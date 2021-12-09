@@ -1,3 +1,7 @@
+-- This query create two tables and two events in order to be able to record statisics
+-- about the number of flights on a daily basis and on a monthly basis. Both events are only containing
+-- an insert statements that uses a query to count the number of flights within as specific time frame.
+
 USE LSAIR;
 
 DROP TABLE IF EXISTS DailyFlights;
@@ -37,4 +41,3 @@ DO BEGIN
     WHERE month(F.date) = month(current_date())
     END
 DELIMITER ;
-
